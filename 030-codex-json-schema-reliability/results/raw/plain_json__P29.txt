@@ -1,0 +1,1 @@
+{"name":"Argon","symbol":"Ar","atomic_number":18,"category":"noble gas","state_at_room_temperature":"gas","discovered_by":[]}

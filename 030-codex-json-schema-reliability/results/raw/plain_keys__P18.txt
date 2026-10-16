@@ -1,0 +1,8 @@
+{
+  "name": "Cairo",
+  "country": "Egypt",
+  "is_capital": true,
+  "population": "more than 9.8 million",
+  "population_year": null,
+  "rivers": ["Nile"]
+}

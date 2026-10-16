@@ -1,0 +1,12 @@
+{
+  "name": "Infosys Limited",
+  "founded_year": 1981,
+  "founders": [],
+  "headquarters": "Bengaluru",
+  "industries": [
+    "Information technology",
+    "Business consulting",
+    "Outsourcing services"
+  ],
+  "is_public": null
+}

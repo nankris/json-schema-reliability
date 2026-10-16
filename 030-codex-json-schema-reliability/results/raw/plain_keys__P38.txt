@@ -1,0 +1,8 @@
+{
+  "name": "Nintendo Co., Ltd.",
+  "founded_year": 1889,
+  "founders": ["Fusajiro Yamauchi"],
+  "headquarters": "Kyoto, Japan",
+  "industries": ["Video games", "Video game consoles"],
+  "is_public": true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Nikola Tesla",
+  "birth_year": 1856,
+  "death_year": 1943,
+  "nationality": "Serbian-American",
+  "occupations": ["engineer", "futurist", "inventor"],
+  "known_for": ["Contributions to the design of the modern alternating current (AC) electricity supply system"]
+}

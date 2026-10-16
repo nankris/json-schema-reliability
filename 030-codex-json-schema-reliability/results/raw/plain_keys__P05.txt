@@ -1,0 +1,15 @@
+{
+  "name": "Magdalena Carmen Frida Kahlo y Calderón",
+  "birth_year": 1907,
+  "death_year": 1954,
+  "nationality": "Mexican",
+  "occupations": ["Painter"],
+  "known_for": [
+    "Portraits and self-portraits",
+    "Works inspired by the nature, artifacts, and folk culture of Mexico",
+    "Exploring identity, postcolonialism, gender, class, and race in Mexican society",
+    "Autobiographical paintings mixing realism with fantasy",
+    "Paintings about her experience of chronic pain",
+    "The Dream (The Bed), described in the text as the most expensive work by a female artist ever auctioned"
+  ]
+}

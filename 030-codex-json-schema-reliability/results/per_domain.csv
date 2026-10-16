@@ -1,0 +1,6 @@
+domain,schema_flag,plain_json,plain_keys
+city,1.0,1.0,0.8
+company,1.0,1.0,0.0
+element,1.0,1.0,0.2
+event,1.0,1.0,0.2
+person,1.0,1.0,0.9

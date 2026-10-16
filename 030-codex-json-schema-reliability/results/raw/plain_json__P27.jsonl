@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf6-7ceb-7fc0-b975-916d64ffc7a0"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Neodymium\",\"symbol\":\"Nd\",\"atomic_number\":60,\"category\":\"lanthanide\",\"state_at_room_temperature\":\"unknown\",\"discovered_by\":[\"Carl Auer von Welsbach\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":14795,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":46,"reasoning_output_tokens":0}}

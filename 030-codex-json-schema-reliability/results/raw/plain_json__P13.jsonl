@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf2-d866-7da0-a36d-f4415f2e523e"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Nairobi\",\"country\":\"Kenya\",\"is_capital\":true,\"population\":5600000,\"population_year\":2026,\"rivers\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":14790,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":37,"reasoning_output_tokens":0}}

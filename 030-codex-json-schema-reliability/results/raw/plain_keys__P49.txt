@@ -1,0 +1,8 @@
+{
+  "name": "1983 Cricket World Cup",
+  "start_year": 1983,
+  "end_year": 1983,
+  "locations": ["England", "Wales"],
+  "participants": ["England", "India", "Pakistan", "West Indies"],
+  "kind": "Cricket tournament"
+}

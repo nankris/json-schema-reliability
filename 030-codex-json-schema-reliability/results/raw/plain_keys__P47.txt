@@ -1,0 +1,12 @@
+{
+  "name": "1883 eruption of Krakatoa",
+  "start_year": 1883,
+  "end_year": 1883,
+  "locations": [
+    "Krakatoa",
+    "Sunda Strait",
+    "Dutch East Indies (modern-day Indonesia)"
+  ],
+  "participants": [],
+  "kind": "Volcanic eruption"
+}

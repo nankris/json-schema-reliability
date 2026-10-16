@@ -1,0 +1,1 @@
+{"name":"Peace of Westphalia","start_year":1648,"end_year":1648,"locations":["Osnabrück","Münster"],"participants":["Ferdinand III, Holy Roman Emperor","Kingdom of France","Kingdom of Sweden","Their respective allies among the princes of the Holy Roman Empire"],"kind":"treaty"}

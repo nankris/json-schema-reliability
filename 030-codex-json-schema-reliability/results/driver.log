@@ -1,0 +1,204 @@
+start 1792006998
+skip plain_json P01
+skip schema_flag P01
+{"arm": "schema_flag", "id": "P02", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14917, "output_tokens": 116, "wall_s": 5.4, "rl_primary_used_pct": 16.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P02", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14835, "output_tokens": 148, "wall_s": 7.2, "rl_primary_used_pct": 16.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P03", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14927, "output_tokens": 109, "wall_s": 7.3, "rl_primary_used_pct": 17.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P03", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14845, "output_tokens": 103, "wall_s": 7.7, "rl_primary_used_pct": 17.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P04", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14774, "output_tokens": 136, "wall_s": 6.6, "rl_primary_used_pct": 17.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P04", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14858, "output_tokens": 109, "wall_s": 8.4, "rl_primary_used_pct": 17.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P05", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 18088, "output_tokens": 145, "wall_s": 9.9, "rl_primary_used_pct": 18.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P05", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 18172, "output_tokens": 147, "wall_s": 10.1, "rl_primary_used_pct": 18.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P06", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 18057, "output_tokens": 104, "wall_s": 10.4, "rl_primary_used_pct": 19.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P06", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14910, "output_tokens": 126, "wall_s": 10.7, "rl_primary_used_pct": 19.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P07", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 18240, "output_tokens": 168, "wall_s": 9.0, "rl_primary_used_pct": 20.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P07", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14923, "output_tokens": 210, "wall_s": 12.3, "rl_primary_used_pct": 20.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P08", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14922, "output_tokens": 180, "wall_s": 18.4, "rl_primary_used_pct": 21.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P08", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14838, "output_tokens": 271, "wall_s": 16.2, "rl_primary_used_pct": 21.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P09", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14895, "output_tokens": 105, "wall_s": 13.2, "rl_primary_used_pct": 22.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P09", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 18206, "output_tokens": 112, "wall_s": 15.3, "rl_primary_used_pct": 22.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P10", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14937, "output_tokens": 163, "wall_s": 16.9, "rl_primary_used_pct": 22.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P10", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14857, "output_tokens": 163, "wall_s": 18.8, "rl_primary_used_pct": 22.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P11", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14979, "output_tokens": 46, "wall_s": 8.6, "rl_primary_used_pct": 23.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P11", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14956, "output_tokens": 40, "wall_s": 9.4, "rl_primary_used_pct": 23.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P12", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14954, "output_tokens": 44, "wall_s": 15.4, "rl_primary_used_pct": 24.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P12", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14877, "output_tokens": 38, "wall_s": 12.8, "rl_primary_used_pct": 24.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P13", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14861, "output_tokens": 43, "wall_s": 6.5, "rl_primary_used_pct": 24.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P13", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14790, "output_tokens": 37, "wall_s": 6.4, "rl_primary_used_pct": 24.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P14", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14913, "output_tokens": 61, "wall_s": 9.3, "rl_primary_used_pct": 25.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P14", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14842, "output_tokens": 50, "wall_s": 9.3, "rl_primary_used_pct": 25.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P15", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14819, "output_tokens": 47, "wall_s": 8.8, "rl_primary_used_pct": 26.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P15", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14744, "output_tokens": 41, "wall_s": 11.6, "rl_primary_used_pct": 26.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P16", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14984, "output_tokens": 93, "wall_s": 9.5, "rl_primary_used_pct": 26.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P16", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14913, "output_tokens": 46, "wall_s": 7.4, "rl_primary_used_pct": 27.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P17", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14868, "output_tokens": 36, "wall_s": 7.9, "rl_primary_used_pct": 27.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P17", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14941, "output_tokens": 42, "wall_s": 11.3, "rl_primary_used_pct": 27.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P18", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14922, "output_tokens": 75, "wall_s": 7.4, "rl_primary_used_pct": 28.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P19", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14970, "output_tokens": 42, "wall_s": 5.3, "rl_primary_used_pct": 28.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P18", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14847, "output_tokens": 38, "wall_s": 12.6, "rl_primary_used_pct": 28.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P19", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14841, "output_tokens": 36, "wall_s": 5.7, "rl_primary_used_pct": 29.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P20", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14896, "output_tokens": 47, "wall_s": 6.9, "rl_primary_used_pct": 29.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P20", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14875, "output_tokens": 41, "wall_s": 5.6, "rl_primary_used_pct": 29.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P21", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 15034, "output_tokens": 60, "wall_s": 7.1, "rl_primary_used_pct": 29.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P21", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14910, "output_tokens": 96, "wall_s": 8.3, "rl_primary_used_pct": 30.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P22", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14878, "output_tokens": 68, "wall_s": 7.2, "rl_primary_used_pct": 30.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P22", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14806, "output_tokens": 43, "wall_s": 6.4, "rl_primary_used_pct": 30.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P23", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14853, "output_tokens": 63, "wall_s": 13.0, "rl_primary_used_pct": 30.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P23", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14727, "output_tokens": 36, "wall_s": 12.9, "rl_primary_used_pct": 30.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P24", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 15043, "output_tokens": 56, "wall_s": 5.9, "rl_primary_used_pct": 31.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P24", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14913, "output_tokens": 50, "wall_s": 5.4, "rl_primary_used_pct": 31.0, "limit_error": ""}
+# VM restart at ~19:48 UTC killed the driver; restarted (runs.csv skip-list resumes)
+start 1792007335
+skip schema_flag P01
+skip plain_json P01
+skip schema_flag P02
+skip plain_json P02
+skip plain_json P03
+skip schema_flag P03
+skip plain_json P04
+skip schema_flag P04
+skip schema_flag P05
+skip plain_json P05
+skip plain_json P06
+skip schema_flag P06
+skip schema_flag P07
+skip plain_json P07
+skip schema_flag P08
+skip plain_json P08
+skip schema_flag P09
+skip plain_json P09
+skip schema_flag P10
+skip plain_json P10
+skip schema_flag P11
+skip plain_json P11
+skip schema_flag P12
+skip plain_json P12
+skip schema_flag P13
+skip plain_json P13
+skip schema_flag P14
+skip plain_json P14
+skip schema_flag P15
+skip plain_json P15
+skip schema_flag P16
+skip plain_json P16
+skip schema_flag P17
+skip plain_json P17
+skip schema_flag P18
+skip plain_json P18
+skip schema_flag P19
+skip plain_json P19
+skip schema_flag P20
+skip plain_json P20
+skip schema_flag P21
+skip plain_json P21
+skip schema_flag P22
+skip plain_json P22
+skip schema_flag P23
+skip plain_json P23
+skip schema_flag P24
+skip plain_json P24
+{"arm": "schema_flag", "id": "P25", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 18277, "output_tokens": 50, "wall_s": 15.4, "rl_primary_used_pct": 39.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P25", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 18151, "output_tokens": 44, "wall_s": 15.5, "rl_primary_used_pct": 39.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P26", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14991, "output_tokens": 50, "wall_s": 7.4, "rl_primary_used_pct": 39.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P26", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14865, "output_tokens": 44, "wall_s": 12.4, "rl_primary_used_pct": 39.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P27", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14919, "output_tokens": 52, "wall_s": 5.5, "rl_primary_used_pct": 39.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P27", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14795, "output_tokens": 46, "wall_s": 4.9, "rl_primary_used_pct": 40.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P28", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14921, "output_tokens": 50, "wall_s": 5.6, "rl_primary_used_pct": 40.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P28", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14803, "output_tokens": 44, "wall_s": 5.6, "rl_primary_used_pct": 40.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P29", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14921, "output_tokens": 43, "wall_s": 5.9, "rl_primary_used_pct": 40.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P29", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14795, "output_tokens": 37, "wall_s": 5.2, "rl_primary_used_pct": 41.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P30", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14948, "output_tokens": 43, "wall_s": 6.4, "rl_primary_used_pct": 41.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P30", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14826, "output_tokens": 37, "wall_s": 6.5, "rl_primary_used_pct": 41.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P31", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14996, "output_tokens": 60, "wall_s": 5.5, "rl_primary_used_pct": 41.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P31", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14894, "output_tokens": 54, "wall_s": 5.8, "rl_primary_used_pct": 42.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P32", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14544, "output_tokens": 61, "wall_s": 6.5, "rl_primary_used_pct": 42.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P32", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14494, "output_tokens": 55, "wall_s": 7.1, "rl_primary_used_pct": 42.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P33", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14963, "output_tokens": 92, "wall_s": 9.0, "rl_primary_used_pct": 42.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P33", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14859, "output_tokens": 88, "wall_s": 8.5, "rl_primary_used_pct": 42.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P34", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14887, "output_tokens": 66, "wall_s": 6.8, "rl_primary_used_pct": 42.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P34", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14783, "output_tokens": 95, "wall_s": 9.1, "rl_primary_used_pct": 43.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P35", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14813, "output_tokens": 96, "wall_s": 9.2, "rl_primary_used_pct": 43.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P35", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14709, "output_tokens": 130, "wall_s": 8.1, "rl_primary_used_pct": 43.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P36", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14994, "output_tokens": 57, "wall_s": 6.6, "rl_primary_used_pct": 43.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P36", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14894, "output_tokens": 54, "wall_s": 10.7, "rl_primary_used_pct": 43.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P37", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14648, "output_tokens": 52, "wall_s": 8.3, "rl_primary_used_pct": 43.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P38", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14933, "output_tokens": 66, "wall_s": 6.6, "rl_primary_used_pct": 43.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P37", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14546, "output_tokens": 46, "wall_s": 8.1, "rl_primary_used_pct": 43.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P38", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14831, "output_tokens": 60, "wall_s": 8.6, "rl_primary_used_pct": 44.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P39", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 15073, "output_tokens": 113, "wall_s": 11.5, "rl_primary_used_pct": 44.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P39", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14917, "output_tokens": 123, "wall_s": 8.6, "rl_primary_used_pct": 44.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P40", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14856, "output_tokens": 81, "wall_s": 9.6, "rl_primary_used_pct": 44.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P40", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14806, "output_tokens": 75, "wall_s": 7.2, "rl_primary_used_pct": 44.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P41", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14965, "output_tokens": 78, "wall_s": 5.8, "rl_primary_used_pct": 45.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P41", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14865, "output_tokens": 75, "wall_s": 5.6, "rl_primary_used_pct": 45.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P42", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14828, "output_tokens": 47, "wall_s": 4.8, "rl_primary_used_pct": 45.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P42", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14928, "output_tokens": 53, "wall_s": 9.4, "rl_primary_used_pct": 45.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P43", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14668, "output_tokens": 64, "wall_s": 5.8, "rl_primary_used_pct": 45.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P43", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14568, "output_tokens": 57, "wall_s": 4.9, "rl_primary_used_pct": 46.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P44", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14948, "output_tokens": 82, "wall_s": 6.1, "rl_primary_used_pct": 46.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P44", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14852, "output_tokens": 78, "wall_s": 5.6, "rl_primary_used_pct": 46.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P45", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14992, "output_tokens": 110, "wall_s": 5.7, "rl_primary_used_pct": 47.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P45", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 15040, "output_tokens": 116, "wall_s": 9.1, "rl_primary_used_pct": 47.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P46", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14773, "output_tokens": 77, "wall_s": 5.3, "rl_primary_used_pct": 47.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P46", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14871, "output_tokens": 80, "wall_s": 7.6, "rl_primary_used_pct": 47.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P47", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14740, "output_tokens": 60, "wall_s": 5.7, "rl_primary_used_pct": 47.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P47", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14640, "output_tokens": 54, "wall_s": 6.2, "rl_primary_used_pct": 47.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P48", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14799, "output_tokens": 118, "wall_s": 5.8, "rl_primary_used_pct": 48.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P48", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14703, "output_tokens": 108, "wall_s": 6.0, "rl_primary_used_pct": 48.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P49", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14617, "output_tokens": 57, "wall_s": 5.5, "rl_primary_used_pct": 48.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P49", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14513, "output_tokens": 51, "wall_s": 4.2, "rl_primary_used_pct": 48.0, "limit_error": ""}
+{"arm": "schema_flag", "id": "P50", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 18245, "output_tokens": 108, "wall_s": 7.8, "rl_primary_used_pct": 49.0, "limit_error": ""}
+{"arm": "plain_json", "id": "P50", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14966, "output_tokens": 102, "wall_s": 10.8, "rl_primary_used_pct": 49.0, "limit_error": ""}
+done 1792007546
+start 1792007690
+{"arm": "plain_keys", "id": "P02", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14714, "output_tokens": 149, "wall_s": 9.1, "rl_primary_used_pct": 49.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P01", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:['Polish', 'naturalised French'] is not of type 'string', 'null'", "input_tokens": 14796, "output_tokens": 192, "wall_s": 9.4, "rl_primary_used_pct": 49.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P04", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14653, "output_tokens": 137, "wall_s": 6.3, "rl_primary_used_pct": 49.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P03", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14722, "output_tokens": 129, "wall_s": 8.1, "rl_primary_used_pct": 49.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P06", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14703, "output_tokens": 84, "wall_s": 5.9, "rl_primary_used_pct": 49.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P05", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14734, "output_tokens": 160, "wall_s": 8.3, "rl_primary_used_pct": 49.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P07", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14798, "output_tokens": 179, "wall_s": 7.5, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P08", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14717, "output_tokens": 213, "wall_s": 7.6, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P09", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14766, "output_tokens": 130, "wall_s": 5.6, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P10", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14732, "output_tokens": 179, "wall_s": 7.2, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P11", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14795, "output_tokens": 57, "wall_s": 5.9, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P12", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14768, "output_tokens": 55, "wall_s": 5.0, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P13", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14679, "output_tokens": 54, "wall_s": 4.8, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P14", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14787, "output_tokens": 84, "wall_s": 6.7, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P16", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'just over two million' is not of type 'integer', 'null'", "input_tokens": 14802, "output_tokens": 66, "wall_s": 5.7, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P15", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14633, "output_tokens": 57, "wall_s": 10.8, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P17", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14757, "output_tokens": 53, "wall_s": 6.2, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P18", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'more than 9.8 million' is not of type 'integer', 'null'", "input_tokens": 14738, "output_tokens": 58, "wall_s": 5.4, "rl_primary_used_pct": 50.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P20", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14712, "output_tokens": 58, "wall_s": 4.9, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P19", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14730, "output_tokens": 53, "wall_s": 7.1, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P21", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14733, "output_tokens": 80, "wall_s": 4.9, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P22", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:None is not of type 'string'", "input_tokens": 14575, "output_tokens": 60, "wall_s": 7.3, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P24", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14798, "output_tokens": 69, "wall_s": 4.4, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P23", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'metal' is not one of ['alkali metal', 'alkaline earth metal', 'transition metal', 'post-transition metal', 'metalloid',", "input_tokens": 14556, "output_tokens": 55, "wall_s": 9.0, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P25", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:None is not of type 'string'", "input_tokens": 14743, "output_tokens": 61, "wall_s": 4.8, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P26", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'non-metal (sometimes considered a metalloid)' is not one of ['alkali metal', 'alkaline earth metal', 'transition metal'", "input_tokens": 14744, "output_tokens": 68, "wall_s": 5.6, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P27", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:None is not of type 'string'", "input_tokens": 14624, "output_tokens": 63, "wall_s": 6.3, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P28", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:None is not of type 'string'", "input_tokens": 14622, "output_tokens": 61, "wall_s": 6.4, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P29", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:None is not of type 'string'", "input_tokens": 14620, "output_tokens": 54, "wall_s": 6.2, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P30", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'metal' is not one of ['alkali metal', 'alkaline earth metal', 'transition metal', 'post-transition metal', 'metalloid',", "input_tokens": 14653, "output_tokens": 55, "wall_s": 4.6, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P32", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Bengaluru' is not of type 'object'", "input_tokens": 14278, "output_tokens": 74, "wall_s": 4.6, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P31", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Toyota City, Aichi, Japan' is not of type 'object'", "input_tokens": 14726, "output_tokens": 68, "wall_s": 6.3, "rl_primary_used_pct": 51.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P33", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Espoo, Finland' is not of type 'object'", "input_tokens": 14689, "output_tokens": 124, "wall_s": 9.2, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P34", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'London, England' is not of type 'object'", "input_tokens": 14613, "output_tokens": 83, "wall_s": 5.3, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P36", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:None is not of type 'object'", "input_tokens": 14776, "output_tokens": 65, "wall_s": 4.5, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P35", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Samsung Town office complex, Seoul, South Korea' is not of type 'object'", "input_tokens": 14537, "output_tokens": 132, "wall_s": 7.0, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P37", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Mumbai' is not of type 'object'", "input_tokens": 14374, "output_tokens": 55, "wall_s": 6.6, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P38", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Kyoto, Japan' is not of type 'object'", "input_tokens": 14661, "output_tokens": 72, "wall_s": 4.5, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P39", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:None is not of type 'object'", "input_tokens": 14749, "output_tokens": 105, "wall_s": 7.1, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P40", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:Additional properties are not allowed ('legal', 'main_office' were unexpected)", "input_tokens": 14586, "output_tokens": 125, "wall_s": 7.5, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P41", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Battle' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']", "input_tokens": 14717, "output_tokens": 110, "wall_s": 6.1, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P42", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Peace treaty' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']", "input_tokens": 14682, "output_tokens": 64, "wall_s": 7.8, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P43", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:None is not of type 'string'", "input_tokens": 14420, "output_tokens": 86, "wall_s": 4.8, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P44", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Crewed spaceflight and lunar landing' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting eve", "input_tokens": 14700, "output_tokens": 117, "wall_s": 5.3, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P45", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14794, "output_tokens": 154, "wall_s": 7.2, "rl_primary_used_pct": 52.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P46", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Two peace treaties' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']", "input_tokens": 14625, "output_tokens": 105, "wall_s": 5.9, "rl_primary_used_pct": 53.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P47", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Volcanic eruption' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']", "input_tokens": 14492, "output_tokens": 80, "wall_s": 6.1, "rl_primary_used_pct": 53.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P48", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Exploration expedition' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']", "input_tokens": 14551, "output_tokens": 154, "wall_s": 6.9, "rl_primary_used_pct": 53.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P49", "parse_valid": 1, "schema_valid": 0, "strict_schema_valid": 0, "error": "schema:'Cricket tournament' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']", "input_tokens": 14365, "output_tokens": 72, "wall_s": 5.5, "rl_primary_used_pct": 53.0, "limit_error": ""}
+{"arm": "plain_keys", "id": "P50", "parse_valid": 1, "schema_valid": 1, "strict_schema_valid": 1, "error": "", "input_tokens": 14764, "output_tokens": 151, "wall_s": 7.0, "rl_primary_used_pct": 53.0, "limit_error": ""}
+done 1792007860

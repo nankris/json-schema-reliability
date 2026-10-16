@@ -1,0 +1,8 @@
+{
+  "name": "Tata Steel Limited",
+  "founded_year": 1907,
+  "founders": [],
+  "headquarters": "Mumbai",
+  "industries": ["Steel"],
+  "is_public": null
+}

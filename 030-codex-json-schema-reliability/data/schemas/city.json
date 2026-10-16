@@ -1,0 +1,41 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "name",
+  "country",
+  "is_capital",
+  "population",
+  "population_year",
+  "rivers"
+ ],
+ "properties": {
+  "name": {
+   "type": "string"
+  },
+  "country": {
+   "type": "string"
+  },
+  "is_capital": {
+   "type": "boolean"
+  },
+  "population": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "population_year": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "rivers": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  }
+ }
+}

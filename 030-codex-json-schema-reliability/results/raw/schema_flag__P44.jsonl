@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf8-63fc-7dd1-beaa-a709f9569c86"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Apollo 11\",\"start_year\":1969,\"end_year\":1969,\"locations\":[\"Kennedy Space Center, Florida\",\"Moon\",\"Sea of Tranquility (Mare Tranquillitatis)\",\"Pacific Ocean\"],\"participants\":[\"Neil Armstrong\",\"Michael Collins\",\"Edwin \\\"Buzz\\\" Aldrin\",\"NASA\"],\"kind\":\"expedition\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":14948,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":82,"reasoning_output_tokens":0}}

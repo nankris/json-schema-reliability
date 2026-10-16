@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf7-773d-7f43-9b51-10d3dd672b5a"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Spotify\",\"founded_year\":2006,\"founders\":[\"Daniel Ek\",\"Martin Lorentzon\"],\"headquarters\":{\"city\":null,\"country\":null},\"industries\":[\"Music streaming\",\"Podcast streaming\"],\"is_public\":true}"}}
+{"type":"turn.completed","usage":{"input_tokens":14894,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":54,"reasoning_output_tokens":0}}

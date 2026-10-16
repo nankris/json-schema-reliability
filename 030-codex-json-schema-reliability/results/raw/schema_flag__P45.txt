@@ -1,0 +1,1 @@
+{"name":"Battle of Plassey","start_year":1757,"end_year":1757,"locations":["Palashi (Plassey)","Hooghly River","West Bengal"],"participants":["British East India Company","Robert Clive","Nawab Siraj-ud-Daulah","French East India Company","Mir Jafar","Yar Lutuf Khan","Jagat Seths (Mahtab Chand and Swarup Chand)","Umichand","Rai Durlabh"],"kind":"battle"}

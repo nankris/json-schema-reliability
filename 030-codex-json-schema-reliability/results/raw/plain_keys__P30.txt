@@ -1,0 +1,8 @@
+{
+  "name": "Tungsten",
+  "symbol": "W",
+  "atomic_number": 74,
+  "category": "metal",
+  "state_at_room_temperature": "solid",
+  "discovered_by": null
+}

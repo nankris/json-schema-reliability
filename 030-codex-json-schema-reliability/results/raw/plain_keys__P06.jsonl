@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfb-9df7-7ec3-8a80-3ff2848166ef"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Nikola Tesla\",\n  \"birth_year\": 1856,\n  \"death_year\": 1943,\n  \"nationality\": \"Serbian-American\",\n  \"occupations\": [\"engineer\", \"futurist\", \"inventor\"],\n  \"known_for\": [\"Contributions to the design of the modern alternating current (AC) electricity supply system\"]\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14703,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":84,"reasoning_output_tokens":0}}

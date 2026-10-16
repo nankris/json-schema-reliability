@@ -1,0 +1,1 @@
+{"name":"1906 San Francisco earthquake","start_year":1906,"end_year":1906,"locations":["Northern California coast","Eureka","North Coast","Salinas Valley","San Francisco Bay Area","San Francisco"],"participants":[],"kind":"disaster"}

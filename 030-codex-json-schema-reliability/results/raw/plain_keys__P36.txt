@@ -1,0 +1,8 @@
+{
+  "name": "Spotify",
+  "founded_year": 2006,
+  "founders": ["Daniel Ek", "Martin Lorentzon"],
+  "headquarters": null,
+  "industries": ["Music streaming", "Audio streaming"],
+  "is_public": true
+}

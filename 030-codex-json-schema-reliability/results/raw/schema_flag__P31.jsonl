@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf6-cbac-7f70-ae43-1c04b19773a9"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Toyota Motor Corporation\",\"founded_year\":1937,\"founders\":[\"Kiichiro Toyoda\"],\"headquarters\":{\"city\":\"Toyota City\",\"country\":\"Japan\"},\"industries\":[\"Automotive manufacturing\"],\"is_public\":null}"}}
+{"type":"turn.completed","usage":{"input_tokens":14996,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":60,"reasoning_output_tokens":0}}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf8-3a5d-79e0-94e2-d675c8119107"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Treaty of Versailles\",\"start_year\":1919,\"end_year\":1919,\"locations\":[\"Palace of Versailles\"],\"participants\":[\"Germany\",\"Allied Powers\"],\"kind\":\"treaty\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":14828,"cached_input_tokens":7168,"cache_write_input_tokens":0,"output_tokens":47,"reasoning_output_tokens":0}}

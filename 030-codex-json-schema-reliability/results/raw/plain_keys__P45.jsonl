@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfd-9512-7113-9564-48543e7cff89"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Battle of Plassey\",\n  \"start_year\": 1757,\n  \"end_year\": 1757,\n  \"locations\": [\n    \"Palashi (Plassey)\",\n    \"Banks of the Hooghly River\",\n    \"West Bengal\"\n  ],\n  \"participants\": [\n    \"British East India Company\",\n    \"Robert Clive\",\n    \"Nawab Siraj-ud-Daulah\",\n    \"French East India Company\",\n    \"Mir Jafar\",\n    \"Yar Lutuf Khan\",\n    \"Mahtab Chand\",\n    \"Swarup Chand\",\n    \"Umichand\",\n    \"Rai Durlabh\"\n  ],\n  \"kind\": \"battle\"\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14794,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":154,"reasoning_output_tokens":0}}

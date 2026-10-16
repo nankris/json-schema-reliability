@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-027e-7bb2-9a97-c326e9240351"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Nairobi\",\n  \"country\": \"Kenya\",\n  \"is_capital\": true,\n  \"population\": 5600000,\n  \"population_year\": 2026,\n  \"rivers\": []\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14679,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":54,"reasoning_output_tokens":0}}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf1-2340-70f1-85ab-3db83f351abb"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Magdalena Carmen Frida Kahlo y Calderón\",\"birth_year\":1907,\"death_year\":1954,\"nationality\":\"Mexican\",\"occupations\":[\"painter\"],\"known_for\":[\"Portraits and self-portraits\",\"Works inspired by the nature and artifacts of Mexico\",\"Using a naïve folk art style to explore identity, postcolonialism, gender, class, and race in Mexican society\",\"Autobiographical paintings mixing realism with fantasy\",\"Painting about her experience of chronic pain\",\"The Dream (The Bed), a 1940 self-portrait holding the record for the most expensive work by a female artist ever auctioned, at $54.7 million\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":18088,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":145,"reasoning_output_tokens":0}}

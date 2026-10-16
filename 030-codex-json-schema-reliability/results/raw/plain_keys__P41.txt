@@ -1,0 +1,13 @@
+{
+  "name": "Battle of Hastings",
+  "start_year": 1066,
+  "end_year": 1066,
+  "locations": [
+    "Approximately 7 mi (11 km) northwest of Hastings, close to the present-day town of Battle, East Sussex"
+  ],
+  "participants": [
+    "Norman-French army led by William, Duke of Normandy",
+    "English army led by Anglo-Saxon King Harold Godwinson"
+  ],
+  "kind": "Battle"
+}

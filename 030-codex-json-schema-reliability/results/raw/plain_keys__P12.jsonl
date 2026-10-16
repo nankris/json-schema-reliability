@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfb-f56c-78b2-af69-087694c28751"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Lisbon\",\n  \"country\": \"Portugal\",\n  \"is_capital\": true,\n  \"population\": 658236,\n  \"population_year\": 2025,\n  \"rivers\": [\"Tagus\"]\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14768,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":55,"reasoning_output_tokens":0}}

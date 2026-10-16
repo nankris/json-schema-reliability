@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfd-8174-7a82-8c65-2be809dc0cb2"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": null,\n  \"start_year\": 1906,\n  \"end_year\": 1906,\n  \"locations\": [\n    \"coast of Northern California\",\n    \"Eureka\",\n    \"North Coast\",\n    \"Salinas Valley\",\n    \"San Francisco Bay Area\",\n    \"San Francisco\"\n  ],\n  \"participants\": [],\n  \"kind\": \"earthquake\"\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14420,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":86,"reasoning_output_tokens":0}}

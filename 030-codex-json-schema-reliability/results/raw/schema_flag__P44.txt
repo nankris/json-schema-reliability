@@ -1,0 +1,1 @@
+{"name":"Apollo 11","start_year":1969,"end_year":1969,"locations":["Kennedy Space Center, Florida","Moon","Sea of Tranquility (Mare Tranquillitatis)","Pacific Ocean"],"participants":["Neil Armstrong","Michael Collins","Edwin \"Buzz\" Aldrin","NASA"],"kind":"expedition"}

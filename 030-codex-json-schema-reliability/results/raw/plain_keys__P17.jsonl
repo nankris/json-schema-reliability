@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-3bec-7c71-954b-db82b454b1ea"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Melbourne\",\n  \"country\": \"Australia\",\n  \"is_capital\": true,\n  \"population\": 5435000,\n  \"population_year\": 2025,\n  \"rivers\": []\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14757,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":53,"reasoning_output_tokens":0}}

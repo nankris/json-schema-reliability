@@ -1,0 +1,8 @@
+{
+  "name": "Silicon",
+  "symbol": "Si",
+  "atomic_number": 14,
+  "category": "non-metal (sometimes considered a metalloid)",
+  "state_at_room_temperature": "solid",
+  "discovered_by": "Jöns Jakob Berzelius"
+}

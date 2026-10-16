@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-1660-7da1-83a3-99811a178291"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Buenos Aires\",\n  \"country\": \"Argentina\",\n  \"is_capital\": true,\n  \"population\": 3100000,\n  \"population_year\": null,\n  \"rivers\": [\"Río de la Plata\"]\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14633,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":57,"reasoning_output_tokens":0}}

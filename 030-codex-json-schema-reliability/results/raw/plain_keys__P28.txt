@@ -1,0 +1,8 @@
+{
+  "name": "Calcium",
+  "symbol": "Ca",
+  "atomic_number": 20,
+  "category": "alkaline earth metal",
+  "state_at_room_temperature": null,
+  "discovered_by": "Humphry Davy"
+}

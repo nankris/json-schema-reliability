@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf0-ca92-7790-b92e-8164c1c6be47"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Alan Mathison Turing\",\n  \"birth_year\": 1912,\n  \"death_year\": 1954,\n  \"nationality\": \"English\",\n  \"occupations\": [\"mathematician\", \"logician\", \"cryptanalyst\"],\n  \"known_for\": [\n    \"Father of theoretical computer science\",\n    \"Formalising algorithm and computation with the Turing machine\",\n    \"Wartime cryptanalysis of the German Enigma system\",\n    \"Turing test\",\n    \"Turing pattern concept\",\n    \"Designing the Automatic Computing Engine\",\n    \"Contributions to early Manchester computers\",\n    \"Work on the chemical basis of morphogenesis\"\n  ]\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14835,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":148,"reasoning_output_tokens":0}}

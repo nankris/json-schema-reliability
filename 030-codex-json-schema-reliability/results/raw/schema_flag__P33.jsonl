@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf6-ff86-74f3-9ad5-af22ccb6025e"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Nokia Corporation\",\"founded_year\":1865,\"founders\":[],\"headquarters\":{\"city\":\"Espoo\",\"country\":\"Finland\"},\"industries\":[\"Telecommunications\",\"Information technology\",\"Consumer electronics\",\"Pulp\",\"Rubber\",\"Cables\",\"Technology development\",\"Licensing\",\"Mobile phones and smartphones\",\"Internet of things\",\"Mapping\",\"Virtual reality\",\"Digital health\"],\"is_public\":true}"}}
+{"type":"turn.completed","usage":{"input_tokens":14963,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":92,"reasoning_output_tokens":0}}

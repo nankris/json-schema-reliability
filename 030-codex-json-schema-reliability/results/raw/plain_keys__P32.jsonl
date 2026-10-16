@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-e802-75a2-872c-700327352061"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Infosys Limited\",\n  \"founded_year\": 1981,\n  \"founders\": [],\n  \"headquarters\": \"Bengaluru\",\n  \"industries\": [\n    \"Information technology\",\n    \"Business consulting\",\n    \"Outsourcing services\"\n  ],\n  \"is_public\": null\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14278,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":74,"reasoning_output_tokens":0}}

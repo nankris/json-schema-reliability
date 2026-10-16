@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf2-e9f2-7360-a69f-d7d2813479d0"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Kyoto\",\"country\":\"Japan\",\"is_capital\":false,\"population\":1460000,\"population_year\":2020,\"rivers\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":14913,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":61,"reasoning_output_tokens":17}}

@@ -1,0 +1,1 @@
+{"name":"Airbus SE","founded_year":2000,"founders":["Aérospatiale-Matra","DASA","CASA"],"headquarters":{"city":"Leiden","country":"Netherlands"},"industries":["Aerospace","Commercial aircraft","Defence and Space","Helicopters"],"is_public":true}

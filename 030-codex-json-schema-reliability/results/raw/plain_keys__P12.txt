@@ -1,0 +1,8 @@
+{
+  "name": "Lisbon",
+  "country": "Portugal",
+  "is_capital": true,
+  "population": 658236,
+  "population_year": 2025,
+  "rivers": ["Tagus"]
+}

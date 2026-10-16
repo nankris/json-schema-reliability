@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-4104-7821-8593-b67f9f6b6d27"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Cairo\",\n  \"country\": \"Egypt\",\n  \"is_capital\": true,\n  \"population\": \"more than 9.8 million\",\n  \"population_year\": null,\n  \"rivers\": [\"Nile\"]\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14738,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":58,"reasoning_output_tokens":0}}

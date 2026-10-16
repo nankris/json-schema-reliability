@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf1-07b7-7c82-8b8e-774d4d942a19"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Srinivasa Ramanujan Iyengar\",\n  \"birth_year\": 1887,\n  \"death_year\": 1920,\n  \"nationality\": \"Indian\",\n  \"occupations\": [\"mathematician\"],\n  \"known_for\": [\n    \"Contributions to mathematical analysis, number theory, infinite series, and continued fractions\",\n    \"Solutions to mathematical problems then considered unsolvable\",\n    \"Independently compiling nearly 3,900 mathematical results\",\n    \"Ramanujan prime\",\n    \"Ramanujan theta function\",\n    \"Partition formulae\",\n    \"Mock theta functions\"\n  ]\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14774,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":136,"reasoning_output_tokens":0}}

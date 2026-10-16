@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfd-1f92-79b2-9230-10f6b23ef097"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Samsung Group\",\n  \"founded_year\": 1938,\n  \"founders\": [\"Lee Byung-chul\"],\n  \"headquarters\": \"Samsung Town office complex, Seoul, South Korea\",\n  \"industries\": [\n    \"Manufacturing\",\n    \"Trading\",\n    \"Food processing\",\n    \"Textiles\",\n    \"Insurance\",\n    \"Securities\",\n    \"Retail\",\n    \"Electronics\",\n    \"Information technology\",\n    \"Semiconductors\",\n    \"Construction\",\n    \"Shipbuilding\",\n    \"Engineering\",\n    \"Advertising\"\n  ],\n  \"is_public\": null\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14537,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":132,"reasoning_output_tokens":0}}

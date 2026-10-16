@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf8-fed3-7000-b6e3-73590cb19402"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Crimean War\",\"start_year\":1853,\"end_year\":1856,\"locations\":[\"Danubian Principalities\",\"Sinop\",\"Silistria\",\"Crimea\",\"Black Sea\",\"Sevastopol\",\"Alma\",\"Balaclava\",\"Inkerman\",\"Caucasus\",\"White Sea\",\"North Pacific\",\"Malakoff redoubt\"],\"participants\":[\"Russia\",\"Ottoman Empire\",\"France\",\"United Kingdom\",\"Kingdom of Sardinia-Piedmont\"],\"kind\":\"war\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":14966,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":102,"reasoning_output_tokens":0}}

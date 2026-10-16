@@ -1,0 +1,54 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "name",
+  "symbol",
+  "atomic_number",
+  "category",
+  "state_at_room_temperature",
+  "discovered_by"
+ ],
+ "properties": {
+  "name": {
+   "type": "string"
+  },
+  "symbol": {
+   "type": "string"
+  },
+  "atomic_number": {
+   "type": "integer"
+  },
+  "category": {
+   "type": "string",
+   "enum": [
+    "alkali metal",
+    "alkaline earth metal",
+    "transition metal",
+    "post-transition metal",
+    "metalloid",
+    "nonmetal",
+    "halogen",
+    "noble gas",
+    "lanthanide",
+    "actinide",
+    "unknown"
+   ]
+  },
+  "state_at_room_temperature": {
+   "type": "string",
+   "enum": [
+    "solid",
+    "liquid",
+    "gas",
+    "unknown"
+   ]
+  },
+  "discovered_by": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  }
+ }
+}

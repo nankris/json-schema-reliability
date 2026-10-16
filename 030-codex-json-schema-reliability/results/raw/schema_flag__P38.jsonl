@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf7-a373-77f2-b48d-c21e07686c37"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Nintendo Co., Ltd.\",\"founded_year\":1889,\"founders\":[\"Fusajiro Yamauchi\"],\"headquarters\":{\"city\":\"Kyoto\",\"country\":\"Japan\"},\"industries\":[\"Video games\",\"Video game consoles\"],\"is_public\":true}"}}
+{"type":"turn.completed","usage":{"input_tokens":14933,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":66,"reasoning_output_tokens":0}}

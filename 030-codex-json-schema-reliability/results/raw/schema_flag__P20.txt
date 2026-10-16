@@ -1,0 +1,1 @@
+{"name":"Kraków","country":"Poland","is_capital":false,"population":816614,"population_year":2025,"rivers":["Vistula"]}

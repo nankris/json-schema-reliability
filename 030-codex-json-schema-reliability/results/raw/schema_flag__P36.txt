@@ -1,0 +1,1 @@
+{"name":"Spotify","founded_year":2006,"founders":["Daniel Ek","Martin Lorentzon"],"headquarters":{"city":null,"country":null},"industries":["Music streaming"],"is_public":true}

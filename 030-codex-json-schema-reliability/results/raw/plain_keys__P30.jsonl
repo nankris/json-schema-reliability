@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-d51d-76f1-9957-808b2a238703"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Tungsten\",\n  \"symbol\": \"W\",\n  \"atomic_number\": 74,\n  \"category\": \"metal\",\n  \"state_at_room_temperature\": \"solid\",\n  \"discovered_by\": null\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14653,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":55,"reasoning_output_tokens":0}}

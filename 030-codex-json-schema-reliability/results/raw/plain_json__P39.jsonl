@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf7-e077-7d60-ba5d-81b484f11768"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"IKEA\",\n  \"founded_year\": 1943,\n  \"founders\": [\"Ingvar Kamprad\"],\n  \"headquarters\": {\n    \"city\": null,\n    \"country\": null\n  },\n  \"industries\": [\"Furniture\", \"Retail\", \"Household goods\", \"Interior design\"],\n  \"is_public\": null\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14917,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":123,"reasoning_output_tokens":38}}

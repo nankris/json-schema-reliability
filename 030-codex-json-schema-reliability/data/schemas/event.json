@@ -1,0 +1,53 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "name",
+  "start_year",
+  "end_year",
+  "locations",
+  "participants",
+  "kind"
+ ],
+ "properties": {
+  "name": {
+   "type": "string"
+  },
+  "start_year": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "end_year": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "locations": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "participants": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "kind": {
+   "type": "string",
+   "enum": [
+    "war",
+    "battle",
+    "treaty",
+    "disaster",
+    "expedition",
+    "sporting event",
+    "other"
+   ]
+  }
+ }
+}

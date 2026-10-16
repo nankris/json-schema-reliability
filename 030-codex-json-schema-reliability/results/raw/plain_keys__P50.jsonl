@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfd-d3f2-7071-a787-a1af0340191d"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Crimean War\",\n  \"start_year\": 1853,\n  \"end_year\": 1856,\n  \"locations\": [\n    \"Danubian Principalities\",\n    \"Sinop\",\n    \"Silistria\",\n    \"Crimea\",\n    \"Black Sea\",\n    \"Sevastopol\",\n    \"Alma\",\n    \"Balaclava\",\n    \"Inkerman\",\n    \"Caucasus\",\n    \"White Sea\",\n    \"North Pacific\"\n  ],\n  \"participants\": [\n    \"Russia\",\n    \"Ottoman Empire\",\n    \"France\",\n    \"United Kingdom\",\n    \"Kingdom of Sardinia-Piedmont\"\n  ],\n  \"kind\": \"war\"\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14764,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":151,"reasoning_output_tokens":0}}

@@ -1,0 +1,8 @@
+{
+  "name": "Toyota Motor Corporation",
+  "founded_year": 1937,
+  "founders": ["Kiichiro Toyoda"],
+  "headquarters": "Toyota City, Aichi, Japan",
+  "industries": ["Automotive manufacturing"],
+  "is_public": null
+}

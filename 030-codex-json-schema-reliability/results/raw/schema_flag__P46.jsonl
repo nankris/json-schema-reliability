@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf8-9bd3-7fa3-a283-b7959e96d68b"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Peace of Westphalia\",\"start_year\":1648,\"end_year\":1648,\"locations\":[\"Osnabrück\",\"Münster\"],\"participants\":[\"Ferdinand III, Holy Roman Emperor\",\"Kingdom of France\",\"Kingdom of Sweden\",\"Allied princes of the Holy Roman Empire\"],\"kind\":\"treaty\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":14871,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":80,"reasoning_output_tokens":0}}

@@ -1,0 +1,23 @@
+{
+  "name": "Samsung Group",
+  "founded_year": 1938,
+  "founders": ["Lee Byung-chul"],
+  "headquarters": "Samsung Town office complex, Seoul, South Korea",
+  "industries": [
+    "Manufacturing",
+    "Trading",
+    "Food processing",
+    "Textiles",
+    "Insurance",
+    "Securities",
+    "Retail",
+    "Electronics",
+    "Information technology",
+    "Semiconductors",
+    "Construction",
+    "Shipbuilding",
+    "Engineering",
+    "Advertising"
+  ],
+  "is_public": null
+}

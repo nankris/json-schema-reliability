@@ -1,0 +1,1 @@
+{"name":"Battle of Hastings","start_year":1066,"end_year":1066,"locations":["Approximately 7 mi (11 km) northwest of Hastings, close to present-day Battle, East Sussex"],"participants":["Norman-French army of William, Duke of Normandy","English army under King Harold Godwinson"],"kind":"battle"}

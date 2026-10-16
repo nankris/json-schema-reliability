@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf8-5855-71a1-b9cb-b0bf81fc0a3b"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"1906 San Francisco earthquake\",\"start_year\":1906,\"end_year\":1906,\"locations\":[\"Northern California\",\"Eureka\",\"North Coast\",\"Salinas Valley\",\"San Francisco Bay Area\",\"San Francisco\"],\"participants\":[],\"kind\":\"disaster\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":14568,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":57,"reasoning_output_tokens":0}}

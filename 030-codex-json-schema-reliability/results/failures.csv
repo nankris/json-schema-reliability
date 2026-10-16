@@ -1,0 +1,30 @@
+arm,id,domain,title,error
+plain_keys,P01,person,Marie Curie,"schema:['Polish', 'naturalised French'] is not of type 'string', 'null'"
+plain_keys,P16,city,Vienna,"schema:'just over two million' is not of type 'integer', 'null'"
+plain_keys,P18,city,Cairo,"schema:'more than 9.8 million' is not of type 'integer', 'null'"
+plain_keys,P22,element,Sodium,schema:None is not of type 'string'
+plain_keys,P23,element,Mercury (element),"schema:'metal' is not one of ['alkali metal', 'alkaline earth metal', 'transition metal', 'post-transition metal', 'metalloid',"
+plain_keys,P25,element,Uranium,schema:None is not of type 'string'
+plain_keys,P26,element,Silicon,"schema:'non-metal (sometimes considered a metalloid)' is not one of ['alkali metal', 'alkaline earth metal', 'transition metal'"
+plain_keys,P27,element,Neodymium,schema:None is not of type 'string'
+plain_keys,P28,element,Calcium,schema:None is not of type 'string'
+plain_keys,P29,element,Argon,schema:None is not of type 'string'
+plain_keys,P30,element,Tungsten,"schema:'metal' is not one of ['alkali metal', 'alkaline earth metal', 'transition metal', 'post-transition metal', 'metalloid',"
+plain_keys,P32,company,Infosys,schema:'Bengaluru' is not of type 'object'
+plain_keys,P31,company,Toyota,"schema:'Toyota City, Aichi, Japan' is not of type 'object'"
+plain_keys,P33,company,Nokia,"schema:'Espoo, Finland' is not of type 'object'"
+plain_keys,P34,company,Unilever,"schema:'London, England' is not of type 'object'"
+plain_keys,P36,company,Spotify,schema:None is not of type 'object'
+plain_keys,P35,company,Samsung,"schema:'Samsung Town office complex, Seoul, South Korea' is not of type 'object'"
+plain_keys,P37,company,Tata Steel,schema:'Mumbai' is not of type 'object'
+plain_keys,P38,company,Nintendo,"schema:'Kyoto, Japan' is not of type 'object'"
+plain_keys,P39,company,IKEA,schema:None is not of type 'object'
+plain_keys,P40,company,Airbus,"schema:Additional properties are not allowed ('legal', 'main_office' were unexpected)"
+plain_keys,P41,event,Battle of Hastings,"schema:'Battle' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']"
+plain_keys,P42,event,Treaty of Versailles,"schema:'Peace treaty' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']"
+plain_keys,P43,event,1906 San Francisco earthquake,schema:None is not of type 'string'
+plain_keys,P44,event,Apollo 11,"schema:'Crewed spaceflight and lunar landing' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting eve"
+plain_keys,P46,event,Peace of Westphalia,"schema:'Two peace treaties' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']"
+plain_keys,P47,event,1883 eruption of Krakatoa,"schema:'Volcanic eruption' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']"
+plain_keys,P48,event,Lewis and Clark Expedition,"schema:'Exploration expedition' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']"
+plain_keys,P49,event,1983 Cricket World Cup,"schema:'Cricket tournament' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']"

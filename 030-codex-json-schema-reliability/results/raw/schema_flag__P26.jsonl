@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf6-4b93-7ad2-9ea1-85b1e341bf5c"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Silicon\",\"symbol\":\"Si\",\"atomic_number\":14,\"category\":\"nonmetal\",\"state_at_room_temperature\":\"solid\",\"discovered_by\":[\"Jöns Jakob Berzelius\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":14991,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":50,"reasoning_output_tokens":0}}

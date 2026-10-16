@@ -1,0 +1,12 @@
+{
+  "name": "Rosalind Elsie Franklin",
+  "birth_year": 1920,
+  "death_year": 1958,
+  "nationality": "English",
+  "occupations": ["Chemist", "X-ray crystallographer"],
+  "known_for": [
+    "Work on X-ray diffraction images of DNA, particularly Photo 51, that contributed to the discovery of the DNA double helix",
+    "Research on the molecular structures of RNA, viruses, coal, and graphite",
+    "Pioneering work on the molecular structures of viruses at Birkbeck College"
+  ]
+}

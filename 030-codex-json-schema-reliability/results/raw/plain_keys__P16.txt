@@ -1,0 +1,8 @@
+{
+  "name": "Vienna",
+  "country": "Austria",
+  "is_capital": true,
+  "population": "just over two million",
+  "population_year": null,
+  "rivers": ["Danube", "Wienfluss (Vienna River)"]
+}

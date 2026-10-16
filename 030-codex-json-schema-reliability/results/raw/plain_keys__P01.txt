@@ -1,0 +1,18 @@
+{
+  "name": "Marie Curie",
+  "birth_year": 1867,
+  "death_year": 1934,
+  "nationality": ["Polish", "naturalised French"],
+  "occupations": ["physicist", "chemist", "professor"],
+  "known_for": [
+    "Pioneering research on radioactivity and coining the term",
+    "Discovery of radium and polonium",
+    "Winning the 1903 Nobel Prize in Physics and the 1911 Nobel Prize in Chemistry",
+    "First woman to win a Nobel Prize",
+    "First person to win a Nobel Prize twice",
+    "Only person to win Nobel Prizes in two different scientific fields",
+    "First woman professor at the University of Paris",
+    "Founding the Curie Institutes in Paris and Warsaw",
+    "Developing mobile radiography units during the First World War"
+  ]
+}

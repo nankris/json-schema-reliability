@@ -1,0 +1,8 @@
+{
+  "name": "Uranium",
+  "symbol": "U",
+  "atomic_number": 92,
+  "category": "actinide",
+  "state_at_room_temperature": null,
+  "discovered_by": ["Martin Heinrich Klaproth"]
+}

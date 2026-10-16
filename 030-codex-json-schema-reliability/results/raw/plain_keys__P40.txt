@@ -1,0 +1,20 @@
+{
+  "name": "Airbus SE",
+  "founded_year": 2000,
+  "founders": [
+    "Aérospatiale-Matra",
+    "DASA",
+    "CASA"
+  ],
+  "headquarters": {
+    "legal": "Leiden, Netherlands",
+    "main_office": "Blagnac, France"
+  },
+  "industries": [
+    "Aerospace",
+    "Commercial aircraft manufacturing",
+    "Defence and space",
+    "Helicopter manufacturing"
+  ],
+  "is_public": true
+}

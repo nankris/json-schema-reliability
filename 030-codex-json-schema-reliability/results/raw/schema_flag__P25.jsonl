@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf6-27f0-7ca2-b84e-704645cd6d75"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Uranium\",\"symbol\":\"U\",\"atomic_number\":92,\"category\":\"actinide\",\"state_at_room_temperature\":\"unknown\",\"discovered_by\":[\"Martin Heinrich Klaproth\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":18277,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":50,"reasoning_output_tokens":0}}

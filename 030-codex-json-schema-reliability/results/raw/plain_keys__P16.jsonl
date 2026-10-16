@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-248e-7590-b952-54aeb504d8ab"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Vienna\",\n  \"country\": \"Austria\",\n  \"is_capital\": true,\n  \"population\": \"just over two million\",\n  \"population_year\": null,\n  \"rivers\": [\"Danube\", \"Wienfluss (Vienna River)\"]\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14802,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":66,"reasoning_output_tokens":0}}

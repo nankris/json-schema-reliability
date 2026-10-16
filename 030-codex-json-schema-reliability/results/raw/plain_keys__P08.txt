@@ -1,0 +1,27 @@
+{
+  "name": "Sir Isaac Newton",
+  "birth_year": 1643,
+  "death_year": 1727,
+  "nationality": "English",
+  "occupations": [
+    "polymath",
+    "mathematician",
+    "physicist",
+    "astronomer",
+    "alchemist",
+    "theologian",
+    "historian",
+    "inventor"
+  ],
+  "known_for": [
+    "Being a key figure in the Scientific Revolution and the Enlightenment",
+    "Writing Philosophiæ Naturalis Principia Mathematica and establishing classical mechanics",
+    "Formulating the laws of motion and universal gravitation",
+    "Co-developing infinitesimal calculus",
+    "Making seminal contributions to optics and developing a theory of colour",
+    "Building the first reflecting telescope",
+    "Contributing to and refining the scientific method",
+    "Solving the two-body problem and introducing the three-body problem",
+    "Writing Opticks"
+  ]
+}

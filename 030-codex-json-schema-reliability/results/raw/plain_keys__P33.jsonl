@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-fa60-7992-a0b4-c487b03ec298"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Nokia Corporation\",\n  \"founded_year\": 1865,\n  \"founders\": [],\n  \"headquarters\": \"Espoo, Finland\",\n  \"industries\": [\n    \"Telecommunications\",\n    \"Information technology\",\n    \"Consumer electronics\",\n    \"Pulp\",\n    \"Rubber\",\n    \"Cables\",\n    \"Technology development\",\n    \"Patent licensing\",\n    \"Mobile phones and smartphones\",\n    \"Internet of things\",\n    \"Mapping\",\n    \"Virtual reality\",\n    \"Digital health\"\n  ],\n  \"is_public\": true\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14689,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":124,"reasoning_output_tokens":0}}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfd-b923-7322-a353-c98fd31c731f"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Lewis and Clark Expedition\",\n  \"start_year\": 1804,\n  \"end_year\": 1806,\n  \"locations\": [\n    \"Camp Dubois (Camp Wood), Illinois\",\n    \"St. Charles, Missouri\",\n    \"Missouri River\",\n    \"Continental Divide of the Americas\",\n    \"Lemhi Pass\",\n    \"Columbia River\",\n    \"Pacific Ocean\",\n    \"Fort Clatsop, Oregon\",\n    \"St. Louis\"\n  ],\n  \"participants\": [\n    \"Captain Meriwether Lewis\",\n    \"Second Lieutenant William Clark\",\n    \"U.S. Army and civilian volunteers of the Corps of Discovery\"\n  ],\n  \"kind\": \"Exploration expedition\"\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14551,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":154,"reasoning_output_tokens":0}}

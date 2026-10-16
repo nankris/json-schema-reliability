@@ -1,0 +1,47 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "name",
+  "birth_year",
+  "death_year",
+  "nationality",
+  "occupations",
+  "known_for"
+ ],
+ "properties": {
+  "name": {
+   "type": "string"
+  },
+  "birth_year": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "death_year": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "nationality": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "occupations": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "known_for": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  }
+ }
+}

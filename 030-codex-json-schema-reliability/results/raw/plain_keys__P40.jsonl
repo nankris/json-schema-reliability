@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfd-4e9a-7a23-9442-3399fa2eacb4"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Airbus SE\",\n  \"founded_year\": 2000,\n  \"founders\": [\n    \"Aérospatiale-Matra\",\n    \"DASA\",\n    \"CASA\"\n  ],\n  \"headquarters\": {\n    \"legal\": \"Leiden, Netherlands\",\n    \"main_office\": \"Blagnac, France\"\n  },\n  \"industries\": [\n    \"Aerospace\",\n    \"Commercial aircraft manufacturing\",\n    \"Defence and space\",\n    \"Helicopter manufacturing\"\n  ],\n  \"is_public\": true\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14586,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":125,"reasoning_output_tokens":0}}

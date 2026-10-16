@@ -1,0 +1,1 @@
+{"name":"Neodymium","symbol":"Nd","atomic_number":60,"category":"lanthanide","state_at_room_temperature":"unknown","discovered_by":["Carl Auer von Welsbach"]}

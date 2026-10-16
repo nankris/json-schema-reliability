@@ -1,0 +1,1 @@
+{"name":"Hyderabad","country":"India","is_capital":true,"population":6900000,"population_year":2011,"rivers":["Musi River"]}

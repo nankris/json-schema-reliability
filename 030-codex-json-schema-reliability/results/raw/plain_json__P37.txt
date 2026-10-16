@@ -1,0 +1,1 @@
+{"name":"Tata Steel Limited","founded_year":1907,"founders":[],"headquarters":{"city":"Mumbai","country":"India"},"industries":["Steel"],"is_public":null}

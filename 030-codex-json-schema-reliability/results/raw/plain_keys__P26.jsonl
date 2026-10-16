@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-a4ab-7351-89f9-d8ed49ba6b8e"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Silicon\",\n  \"symbol\": \"Si\",\n  \"atomic_number\": 14,\n  \"category\": \"non-metal (sometimes considered a metalloid)\",\n  \"state_at_room_temperature\": \"solid\",\n  \"discovered_by\": \"Jöns Jakob Berzelius\"\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14744,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":68,"reasoning_output_tokens":0}}

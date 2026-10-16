@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfd-cb78-7d63-aa54-e2f92a712187"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"1983 Cricket World Cup\",\n  \"start_year\": 1983,\n  \"end_year\": 1983,\n  \"locations\": [\"England\", \"Wales\"],\n  \"participants\": [\"England\", \"India\", \"Pakistan\", \"West Indies\"],\n  \"kind\": \"Cricket tournament\"\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14365,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":72,"reasoning_output_tokens":0}}

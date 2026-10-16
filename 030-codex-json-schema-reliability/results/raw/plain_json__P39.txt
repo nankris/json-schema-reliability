@@ -1,0 +1,11 @@
+{
+  "name": "IKEA",
+  "founded_year": 1943,
+  "founders": ["Ingvar Kamprad"],
+  "headquarters": {
+    "city": null,
+    "country": null
+  },
+  "industries": ["Furniture", "Retail", "Household goods", "Interior design"],
+  "is_public": null
+}

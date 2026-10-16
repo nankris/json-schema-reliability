@@ -1,0 +1,15 @@
+{
+  "name": null,
+  "start_year": 1906,
+  "end_year": 1906,
+  "locations": [
+    "coast of Northern California",
+    "Eureka",
+    "North Coast",
+    "Salinas Valley",
+    "San Francisco Bay Area",
+    "San Francisco"
+  ],
+  "participants": [],
+  "kind": "earthquake"
+}

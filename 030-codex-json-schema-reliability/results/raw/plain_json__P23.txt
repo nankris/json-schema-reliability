@@ -1,0 +1,1 @@
+{"name":"Mercury","symbol":"Hg","atomic_number":80,"category":"unknown","state_at_room_temperature":"liquid","discovered_by":[]}

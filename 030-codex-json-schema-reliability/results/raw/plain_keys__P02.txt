@@ -1,0 +1,17 @@
+{
+  "name": "Alan Mathison Turing",
+  "birth_year": 1912,
+  "death_year": 1954,
+  "nationality": "English",
+  "occupations": ["Mathematician", "Logician"],
+  "known_for": [
+    "Being widely regarded as the father of theoretical computer science",
+    "Formalising algorithm and computation through the Turing machine",
+    "Helping decipher German Enigma messages during World War II",
+    "The Turing test",
+    "The Turing pattern concept",
+    "Designing the Automatic Computing Engine",
+    "Contributing to early Manchester computers",
+    "Work on the chemical basis of morphogenesis"
+  ]
+}

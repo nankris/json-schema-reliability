@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf2-6dac-7a20-b3bd-48e97e166c61"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Hyderabad\",\"country\":\"India\",\"is_capital\":true,\"population\":6900000,\"population_year\":2011,\"rivers\":[\"Musi River\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":14979,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":46,"reasoning_output_tokens":0}}

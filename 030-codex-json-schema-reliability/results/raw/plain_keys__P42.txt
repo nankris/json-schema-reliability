@@ -1,0 +1,8 @@
+{
+  "name": "Treaty of Versailles",
+  "start_year": 1919,
+  "end_year": null,
+  "locations": ["Palace of Versailles"],
+  "participants": ["Germany", "Most of the Allied Powers"],
+  "kind": "Peace treaty"
+}

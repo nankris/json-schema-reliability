@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf7-8084-7812-9fb6-0da8b9235bc9"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Tata Steel Limited\",\"founded_year\":1907,\"founders\":[],\"headquarters\":{\"city\":\"Mumbai\",\"country\":\"India\"},\"industries\":[\"Steel\"],\"is_public\":null}"}}
+{"type":"turn.completed","usage":{"input_tokens":14648,"cached_input_tokens":12416,"cache_write_input_tokens":0,"output_tokens":52,"reasoning_output_tokens":0}}

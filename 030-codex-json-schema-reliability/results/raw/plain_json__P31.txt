@@ -1,0 +1,1 @@
+{"name":"Toyota Motor Corporation","founded_year":1937,"founders":["Kiichiro Toyoda"],"headquarters":{"city":"Toyota City","country":"Japan"},"industries":["Automotive manufacturing"],"is_public":null}

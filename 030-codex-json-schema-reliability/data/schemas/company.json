@@ -1,0 +1,63 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "name",
+  "founded_year",
+  "founders",
+  "headquarters",
+  "industries",
+  "is_public"
+ ],
+ "properties": {
+  "name": {
+   "type": "string"
+  },
+  "founded_year": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "founders": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "headquarters": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "city",
+    "country"
+   ],
+   "properties": {
+    "city": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "country": {
+     "type": [
+      "string",
+      "null"
+     ]
+    }
+   }
+  },
+  "industries": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "is_public": {
+   "type": [
+    "boolean",
+    "null"
+   ]
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Rabindranath Tagore",
+  "birth_year": 1861,
+  "death_year": 1941,
+  "nationality": "Indian",
+  "occupations": [
+    "poet",
+    "author",
+    "playwright",
+    "musician",
+    "composer",
+    "philosopher",
+    "social reformer",
+    "painter"
+  ],
+  "known_for": [
+    "Winning the Nobel Prize in Literature in 1913",
+    "Being a foremost figure of the Bengal Renaissance",
+    "Reshaping Bengali literature and music and Indian art",
+    "Gitanjali (Song Offerings)",
+    "Gora (Fair-Faced)",
+    "Ghare-Baire (The Home and the World)",
+    "Writing and composing India's national anthem, Jana Gana Mana",
+    "Writing and composing Bangladesh's national anthem, Amar Sonar Bangla",
+    "Founding Visva-Bharati University"
+  ]
+}

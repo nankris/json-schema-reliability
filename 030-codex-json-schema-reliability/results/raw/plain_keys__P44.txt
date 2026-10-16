@@ -1,0 +1,17 @@
+{
+  "name": "Apollo 11",
+  "start_year": 1969,
+  "end_year": 1969,
+  "locations": [
+    "Kennedy Space Center, Florida",
+    "Sea of Tranquility (Mare Tranquillitatis), Moon",
+    "Lunar orbit",
+    "Pacific Ocean"
+  ],
+  "participants": [
+    "Neil Armstrong",
+    "Michael Collins",
+    "Edwin \"Buzz\" Aldrin"
+  ],
+  "kind": "Crewed spaceflight and lunar landing"
+}

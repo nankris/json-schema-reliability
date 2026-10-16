@@ -1,0 +1,8 @@
+{
+  "name": "Bromine",
+  "symbol": "Br",
+  "atomic_number": 35,
+  "category": "halogen",
+  "state_at_room_temperature": "liquid",
+  "discovered_by": ["Carl Jacob Löwig", "Antoine Jérôme Balard"]
+}

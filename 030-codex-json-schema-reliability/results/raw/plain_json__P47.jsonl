@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf8-bac4-7e91-aa70-e9f0bc3ef337"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"1883 eruption of Krakatoa\",\"start_year\":1883,\"end_year\":1883,\"locations\":[\"Krakatoa\",\"Sunda Strait\",\"Dutch East Indies (modern-day Indonesia)\"],\"participants\":[],\"kind\":\"disaster\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":14640,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":54,"reasoning_output_tokens":0}}

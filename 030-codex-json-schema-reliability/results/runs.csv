@@ -1,0 +1,154 @@
+arm,id,domain,title,start_epoch,wall_s,exit_code,final_chars,parse_valid,lenient_parse_valid,schema_valid,schema_valid_lenient,strict_schema_valid,error,tool_items,input_tokens,cached_input_tokens,output_tokens,est_cost_usd,model_calls,model,rl_primary_used_pct,limit_error,retries,thread_id
+schema_flag,P01,person,Marie Curie,1792006976,7.4,0,711,1,1,1,1,1,,0,15003,0,167,0.03168,1,gpt-6.1-sol,15.0,,0,01a13bf0-74f4-7473-b2fb-6e69ee79c8ff
+plain_json,P01,person,Marie Curie,1792006976,8.8,0,838,1,1,1,1,1,,0,14865,12288,218,0.00856,1,gpt-6.1-sol,15.0,,0,01a13bf0-74c9-77d2-a2c1-906242587c76
+schema_flag,P02,person,Alan Turing,1792006998,5.4,0,487,1,1,1,1,1,,0,14917,0,116,0.03099,1,gpt-6.1-sol,16.0,,0,01a13bf0-ca8b-75d0-97d7-a389fe5f647f
+plain_json,P02,person,Alan Turing,1792006998,7.2,0,564,1,1,1,1,1,,0,14835,12288,148,0.0078,1,gpt-6.1-sol,16.0,,0,01a13bf0-ca92-7790-b92e-8164c1c6be47
+schema_flag,P03,person,Ada Lovelace,1792007004,7.3,0,464,1,1,1,1,1,,0,14927,0,109,0.03094,1,gpt-6.1-sol,17.0,,0,01a13bf0-e3be-7060-b78a-bebfdacd44c0
+plain_json,P03,person,Ada Lovelace,1792007005,7.7,0,467,1,1,1,1,1,,0,14845,12288,103,0.00737,1,gpt-6.1-sol,17.0,,0,01a13bf0-e765-7d23-b722-2c9fbe21e9d3
+plain_json,P04,person,Srinivasa Ramanujan,1792007013,6.6,0,517,1,1,1,1,1,,0,14774,12288,136,0.00756,1,gpt-6.1-sol,17.0,,0,01a13bf1-07b7-7c82-8b8e-774d4d942a19
+schema_flag,P04,person,Srinivasa Ramanujan,1792007012,8.4,0,454,1,1,1,1,1,,0,14858,0,109,0.03081,1,gpt-6.1-sol,17.0,,0,01a13bf1-0051-7ca0-91fa-150236a86178
+plain_json,P05,person,Frida Kahlo,1792007020,9.9,0,596,1,1,1,1,1,,0,18088,12288,145,0.01428,1,gpt-6.1-sol,18.0,,0,01a13bf1-2340-70f1-85ab-3db83f351abb
+schema_flag,P05,person,Frida Kahlo,1792007020,10.1,0,580,1,1,1,1,1,,0,18172,0,147,0.03781,1,gpt-6.1-sol,18.0,,0,01a13bf1-2358-7721-86bb-0e50c92efc98
+plain_json,P06,person,Nikola Tesla,1792007031,10.4,0,470,1,1,1,1,1,,0,18057,12288,104,0.01381,1,gpt-6.1-sol,19.0,,0,01a13bf1-4dc5-7753-9916-963a5b3bd844
+schema_flag,P06,person,Nikola Tesla,1792007031,10.7,0,574,1,1,1,1,1,,0,14910,0,126,0.03108,1,gpt-6.1-sol,19.0,,0,01a13bf1-4b4e-7581-884a-e4194e9366c4
+schema_flag,P07,person,Rabindranath Tagore,1792007042,9.0,0,693,1,1,1,1,1,,0,18240,0,168,0.03816,1,gpt-6.1-sol,20.0,,0,01a13bf1-79e6-7d50-85e0-677a33bfb4b4
+plain_json,P07,person,Rabindranath Tagore,1792007042,12.3,0,744,1,1,1,1,1,,0,14923,12288,210,0.0086,1,gpt-6.1-sol,20.0,,0,01a13bf1-7909-7870-8cd6-71bdcfec4bed
+schema_flag,P08,person,Isaac Newton,1792007052,18.4,0,829,1,1,1,1,1,,0,14922,0,180,0.03164,1,gpt-6.1-sol,21.0,,0,01a13bf1-9d1a-72a1-8b88-84d74313ae0c
+plain_json,P08,person,Isaac Newton,1792007055,16.2,0,1116,1,1,1,1,1,,0,14838,12288,271,0.00904,1,gpt-6.1-sol,21.0,,0,01a13bf1-a9ca-7b81-8a20-15a66d7f6685
+plain_json,P09,person,Rosalind Franklin,1792007072,13.2,0,459,1,1,1,1,1,,0,14895,12288,105,0.00749,1,gpt-6.1-sol,22.0,,0,01a13bf1-ec89-7c90-985f-336239768d58
+schema_flag,P09,person,Rosalind Franklin,1792007071,15.3,0,453,1,1,1,1,1,,0,18206,0,112,0.03753,1,gpt-6.1-sol,22.0,,0,01a13bf1-ea49-7fd3-a005-1e5959c38d49
+schema_flag,P10,person,Leonardo da Vinci,1792007086,16.9,0,612,1,1,1,1,1,,0,14937,0,163,0.0315,1,gpt-6.1-sol,22.0,,0,01a13bf2-259f-7441-a044-c5680ec0279b
+plain_json,P10,person,Leonardo da Vinci,1792007087,18.8,0,654,1,1,1,1,1,,0,14857,12288,163,0.008,1,gpt-6.1-sol,22.0,,0,01a13bf2-2a8f-7be0-b291-7caaa54f51f2
+schema_flag,P11,city,Hyderabad,1792007104,8.6,0,124,1,1,1,1,1,,0,14979,0,46,0.03042,1,gpt-6.1-sol,23.0,,0,01a13bf2-6dac-7a20-b3bd-48e97e166c61
+plain_json,P11,city,Hyderabad,1792007107,9.4,0,124,1,1,1,1,1,,0,14956,12288,40,0.00696,1,gpt-6.1-sol,23.0,,0,01a13bf2-74ce-7ca3-ab58-f962a0925da1
+schema_flag,P12,city,Lisbon,1792007114,15.4,0,118,1,1,1,1,1,,0,14954,0,44,0.03035,1,gpt-6.1-sol,24.0,,0,01a13bf2-9a1a-7321-8058-a506a36face1
+plain_json,P12,city,Lisbon,1792007118,12.8,0,118,1,1,1,1,1,,0,14877,12288,38,0.00679,1,gpt-6.1-sol,24.0,,0,01a13bf2-a960-7773-8bac-ae4e3e865ab0
+schema_flag,P13,city,Nairobi,1792007130,6.5,0,110,1,1,1,1,1,,0,14861,0,43,0.03015,1,gpt-6.1-sol,24.0,,0,01a13bf2-d2ec-7843-85a2-bb7416726eaf
+plain_json,P13,city,Nairobi,1792007132,6.4,0,110,1,1,1,1,1,,0,14790,12288,37,0.0066,1,gpt-6.1-sol,24.0,,0,01a13bf2-d866-7da0-a36d-f4415f2e523e
+schema_flag,P14,city,Kyoto,1792007137,9.3,0,109,1,1,1,1,1,,0,14913,0,61,0.03044,1,gpt-6.1-sol,25.0,,0,01a13bf2-e9f2-7360-a69f-d7d2813479d0
+plain_json,P14,city,Kyoto,1792007139,9.3,0,108,1,1,1,1,1,,0,14842,12288,50,0.00684,1,gpt-6.1-sol,25.0,,0,01a13bf2-f381-7102-b19a-3bec7cd3fa26
+schema_flag,P15,city,Buenos Aires,1792007147,8.8,0,136,1,1,1,1,1,,0,14819,0,47,0.03011,1,gpt-6.1-sol,26.0,,0,01a13bf3-15c4-72e1-aea2-9615a5c43f7b
+plain_json,P15,city,Buenos Aires,1792007149,11.6,0,136,1,1,1,1,1,,0,14744,12288,41,0.00655,1,gpt-6.1-sol,26.0,,0,01a13bf3-1b2b-7e22-92bf-9672324764b8
+schema_flag,P16,city,Vienna,1792007157,9.5,0,146,1,1,1,1,1,,0,14984,0,93,0.0309,1,gpt-6.1-sol,26.0,,0,01a13bf3-37f8-7271-8e25-3410c8506119
+plain_json,P16,city,Vienna,1792007161,7.4,0,143,1,1,1,1,1,,0,14913,12288,46,0.00694,1,gpt-6.1-sol,27.0,,0,01a13bf3-4b42-7633-942f-28865be71568
+plain_json,P17,city,Melbourne,1792007169,7.9,0,116,1,1,1,1,1,,0,14868,12288,36,0.00675,1,gpt-6.1-sol,27.0,,0,01a13bf3-68f8-76a1-8797-247e9e53d87d
+schema_flag,P17,city,Melbourne,1792007167,11.3,0,116,1,1,1,1,1,,0,14941,0,42,0.0303,1,gpt-6.1-sol,27.0,,0,01a13bf3-5d41-7b13-9d96-03d4050d2df2
+schema_flag,P18,city,Cairo,1792007178,7.4,0,114,1,1,1,1,1,,0,14922,0,75,0.03059,1,gpt-6.1-sol,28.0,,0,01a13bf3-882b-7800-bb75-b4715852fcd2
+schema_flag,P19,city,Montreal,1792007185,5.3,0,113,1,1,1,1,1,,0,14970,0,42,0.03036,1,gpt-6.1-sol,28.0,,0,01a13bf3-a67e-7571-9ac4-803391f77be7
+plain_json,P18,city,Cairo,1792007178,12.6,0,114,1,1,1,1,1,,0,14847,12288,38,0.00673,1,gpt-6.1-sol,28.0,,0,01a13bf3-8c5e-7f22-b199-85569f8bcd94
+plain_json,P19,city,Montreal,1792007191,5.7,0,113,1,1,1,1,1,,0,14841,12288,36,0.00669,1,gpt-6.1-sol,29.0,,0,01a13bf3-bd91-7453-8ee9-8c2cba03c910
+schema_flag,P20,city,Kraków,1792007192,6.9,0,119,1,1,1,1,1,,0,14896,0,47,0.03026,1,gpt-6.1-sol,29.0,,0,01a13bf3-c148-79f1-ab41-7435bf9c570c
+plain_json,P20,city,Kraków,1792007197,5.6,0,119,1,1,1,1,1,,0,14875,12288,41,0.00681,1,gpt-6.1-sol,29.0,,0,01a13bf3-d4a5-7d32-91b1-6aaefeced9c5
+schema_flag,P21,element,Helium,1792007199,7.1,0,187,1,1,1,1,1,,0,15034,0,60,0.03067,1,gpt-6.1-sol,29.0,,0,01a13bf3-dc3f-7d80-87ce-5c322e60e772
+plain_json,P21,element,Helium,1792007203,8.3,0,187,1,1,1,1,1,,0,14910,12288,96,0.00743,1,gpt-6.1-sol,30.0,,0,01a13bf3-ed06-7061-abb0-20eedd075d28
+schema_flag,P22,element,Sodium,1792007207,7.2,0,147,1,1,1,1,1,,0,14878,0,68,0.03044,1,gpt-6.1-sol,30.0,,0,01a13bf3-faf4-76d3-8cf3-396b4d094637
+plain_json,P22,element,Sodium,1792007212,6.4,0,147,1,1,1,1,1,,0,14806,12288,43,0.00669,1,gpt-6.1-sol,30.0,,0,01a13bf4-0ff6-7cb3-8897-f444cdacb7ed
+schema_flag,P23,element,Mercury (element),1792007214,13.0,0,128,1,1,1,1,1,,0,14853,0,63,0.03034,1,gpt-6.1-sol,30.0,,1,01a13bf4-1776-7e11-be9c-583523350ffb
+plain_json,P23,element,Mercury (element),1792007219,12.9,0,128,1,1,1,1,1,,0,14727,12288,36,0.00647,1,gpt-6.1-sol,30.0,,0,01a13bf4-291c-70f2-bda6-6831501f77c2
+schema_flag,P24,element,Bromine,1792007228,5.9,0,170,1,1,1,1,1,,0,15043,0,56,0.03065,1,gpt-6.1-sol,31.0,,0,01a13bf4-4c93-7362-8906-38d218d5315d
+plain_json,P24,element,Bromine,1792007232,5.4,0,170,1,1,1,1,1,,0,14913,12288,50,0.00698,1,gpt-6.1-sol,31.0,,0,01a13bf4-5c4d-70d3-9309-2ef2d3a95f9a
+schema_flag,P25,element,Uranium,1792007342,15.4,0,155,1,1,1,1,1,,0,18277,0,50,0.03705,1,gpt-6.1-sol,39.0,,0,01a13bf6-27f0-7ca2-b84e-704645cd6d75
+plain_json,P25,element,Uranium,1792007343,15.5,0,155,1,1,1,1,1,,0,18151,12288,44,0.01339,1,gpt-6.1-sol,39.0,,0,01a13bf6-27ee-7142-a48a-7d193139c355
+schema_flag,P26,element,Silicon,1792007358,7.4,0,150,1,1,1,1,1,,0,14991,0,50,0.03048,1,gpt-6.1-sol,39.0,,0,01a13bf6-4b93-7ad2-9ea1-85b1e341bf5c
+plain_json,P26,element,Silicon,1792007359,12.4,0,150,1,1,1,1,1,,0,14865,12288,44,0.00682,1,gpt-6.1-sol,39.0,,0,01a13bf6-4cbc-7471-bedd-bc0d65c2c09e
+schema_flag,P27,element,Neodymium,1792007366,5.5,0,158,1,1,1,1,1,,0,14919,0,52,0.03036,1,gpt-6.1-sol,39.0,,0,01a13bf6-6844-7233-9ca4-d0b546cc63ac
+plain_json,P27,element,Neodymium,1792007371,4.9,0,158,1,1,1,1,1,,0,14795,12288,46,0.0067,1,gpt-6.1-sol,40.0,,0,01a13bf6-7ceb-7fc0-b975-916d64ffc7a0
+schema_flag,P28,element,Calcium,1792007372,5.6,0,156,1,1,1,1,1,,0,14921,0,50,0.03034,1,gpt-6.1-sol,40.0,,0,01a13bf6-7ef5-7222-b27e-7183273c4c5d
+plain_json,P28,element,Calcium,1792007376,5.6,0,156,1,1,1,1,1,,0,14803,12288,44,0.0067,1,gpt-6.1-sol,40.0,,0,01a13bf6-90b7-7df3-839b-570bd3e6465a
+schema_flag,P29,element,Argon,1792007378,5.9,0,125,1,1,1,1,1,,0,14921,0,43,0.03027,1,gpt-6.1-sol,40.0,,0,01a13bf6-9612-7571-af9c-40a697e501a6
+plain_json,P29,element,Argon,1792007382,5.2,0,125,1,1,1,1,1,,0,14795,12288,37,0.00661,1,gpt-6.1-sol,41.0,,0,01a13bf6-a7c9-72d1-ad09-55367ec16330
+schema_flag,P30,element,Tungsten,1792007384,6.4,0,136,1,1,1,1,1,,0,14948,0,43,0.03033,1,gpt-6.1-sol,41.0,,0,01a13bf6-aebe-7c81-ae89-bbf58de427e1
+plain_json,P30,element,Tungsten,1792007388,6.5,0,136,1,1,1,1,1,,0,14826,12288,37,0.00667,1,gpt-6.1-sol,41.0,,0,01a13bf6-c060-7bd3-b7ff-fcbfcda9ac53
+schema_flag,P31,company,Toyota,1792007391,5.5,0,201,1,1,1,1,1,,0,14996,0,60,0.03059,1,gpt-6.1-sol,41.0,,0,01a13bf6-cbac-7f70-ae43-1c04b19773a9
+plain_json,P31,company,Toyota,1792007395,5.8,0,201,1,1,1,1,1,,0,14894,12288,54,0.00698,1,gpt-6.1-sol,42.0,,0,01a13bf6-d843-7961-8104-6474a5673f51
+schema_flag,P32,company,Infosys,1792007397,6.5,0,204,1,1,1,1,1,,0,14544,0,61,0.0297,1,gpt-6.1-sol,42.0,,0,01a13bf6-e260-7671-9ce0-ee8ce270409d
+plain_json,P32,company,Infosys,1792007401,7.1,0,204,1,1,1,1,1,,0,14494,12288,55,0.00619,1,gpt-6.1-sol,42.0,,0,01a13bf6-f247-7cb0-b6da-dfb3da293af9
+schema_flag,P33,company,Nokia,1792007404,9.0,0,375,1,1,1,1,1,,0,14963,0,92,0.03085,1,gpt-6.1-sol,42.0,,0,01a13bf6-ff86-74f3-9ad5-af22ccb6025e
+plain_json,P33,company,Nokia,1792007409,8.5,0,401,1,1,1,1,1,,0,14859,12288,88,0.00725,1,gpt-6.1-sol,42.0,,0,01a13bf7-10bc-7cd2-aad0-7ad4c01dadd7
+schema_flag,P34,company,Unilever,1792007414,6.8,0,229,1,1,1,1,1,,0,14887,0,66,0.03043,1,gpt-6.1-sol,42.0,,0,01a13bf7-23d1-7e62-9488-bad6ee6207a8
+plain_json,P34,company,Unilever,1792007417,9.1,0,297,1,1,1,1,1,,0,14783,12288,95,0.00717,1,gpt-6.1-sol,43.0,,0,01a13bf7-30bd-7a83-882a-9316f9532a5f
+schema_flag,P35,company,Samsung,1792007421,9.2,0,388,1,1,1,1,1,,0,14813,12416,96,0.007,1,gpt-6.1-sol,43.0,,0,01a13bf7-414b-7860-b1f7-93b6f31062a9
+plain_json,P35,company,Samsung,1792007427,8.1,0,437,1,1,1,1,1,,0,14709,12288,130,0.00737,1,gpt-6.1-sol,43.0,,0,01a13bf7-55b4-7c92-871e-17eda1b5d646
+schema_flag,P36,company,Spotify,1792007431,6.6,0,176,1,1,1,1,1,,0,14994,0,57,0.03056,1,gpt-6.1-sol,43.0,,0,01a13bf7-6492-7543-b3d7-791127b12ee7
+plain_json,P36,company,Spotify,1792007435,10.7,0,196,1,1,1,1,1,,0,14894,12288,54,0.00698,1,gpt-6.1-sol,43.0,,0,01a13bf7-773d-7f43-9b51-10d3dd672b5a
+schema_flag,P37,company,Tata Steel,1792007438,8.3,0,154,1,1,1,1,1,,0,14648,12416,52,0.00623,1,gpt-6.1-sol,43.0,,0,01a13bf7-8084-7812-9fb6-0da8b9235bc9
+schema_flag,P38,company,Nintendo,1792007446,6.6,0,200,1,1,1,1,1,,0,14933,0,66,0.03053,1,gpt-6.1-sol,43.0,,0,01a13bf7-a373-77f2-b48d-c21e07686c37
+plain_json,P37,company,Tata Steel,1792007446,8.1,0,154,1,1,1,1,1,,0,14546,12288,46,0.0062,1,gpt-6.1-sol,43.0,,0,01a13bf7-a361-7840-8432-e7429e7646f1
+plain_json,P38,company,Nintendo,1792007453,8.6,0,200,1,1,1,1,1,,0,14831,12288,60,0.00691,1,gpt-6.1-sol,44.0,,0,01a13bf7-bf99-7593-ba04-83b0c62b3474
+schema_flag,P39,company,IKEA,1792007455,11.5,0,180,1,1,1,1,1,,0,15073,0,113,0.03128,1,gpt-6.1-sol,44.0,,0,01a13bf7-c489-7100-9e9c-bf36ae80a17d
+plain_json,P39,company,IKEA,1792007462,8.6,0,241,1,1,1,1,1,,0,14917,12288,123,0.00772,1,gpt-6.1-sol,44.0,,0,01a13bf7-e077-7d60-ba5d-81b484f11768
+schema_flag,P40,company,Airbus,1792007467,9.6,0,245,1,1,1,1,1,,0,14856,0,81,0.03052,1,gpt-6.1-sol,44.0,,0,01a13bf7-f630-7892-9255-afdff19498f6
+plain_json,P40,company,Airbus,1792007471,7.2,0,245,1,1,1,1,1,,0,14806,12288,75,0.00701,1,gpt-6.1-sol,44.0,,0,01a13bf8-05e5-75c3-a913-3b19425ce818
+schema_flag,P41,event,Battle of Hastings,1792007477,5.8,0,275,1,1,1,1,1,,0,14965,0,78,0.03071,1,gpt-6.1-sol,45.0,,0,01a13bf8-1b33-74d3-a745-e67931c8966b
+plain_json,P41,event,Battle of Hastings,1792007479,5.6,0,296,1,1,1,1,1,,0,14865,12288,75,0.00713,1,gpt-6.1-sol,45.0,,0,01a13bf8-22ff-7e53-a696-e38f642acdfb
+plain_json,P42,event,Treaty of Versailles,1792007485,4.8,0,161,1,1,1,1,1,,0,14828,7168,47,0.01651,1,gpt-6.1-sol,45.0,,0,01a13bf8-3a5d-79e0-94e2-d675c8119107
+schema_flag,P42,event,Treaty of Versailles,1792007483,9.4,0,161,1,1,1,1,1,,0,14928,0,53,0.03039,1,gpt-6.1-sol,45.0,,0,01a13bf8-3394-7a00-b100-e474ff7b827a
+schema_flag,P43,event,1906 San Francisco earthquake,1792007490,5.8,0,233,1,1,1,1,1,,0,14668,0,64,0.02998,1,gpt-6.1-sol,45.0,,0,01a13bf8-4c8c-7411-a31f-3fa59cea872f
+plain_json,P43,event,1906 San Francisco earthquake,1792007493,4.9,0,227,1,1,1,1,1,,0,14568,12288,57,0.00636,1,gpt-6.1-sol,46.0,,0,01a13bf8-5855-71a1-b9cb-b0bf81fc0a3b
+schema_flag,P44,event,Apollo 11,1792007496,6.1,0,270,1,1,1,1,1,,0,14948,0,82,0.03072,1,gpt-6.1-sol,46.0,,0,01a13bf8-63fc-7dd1-beaa-a709f9569c86
+plain_json,P44,event,Apollo 11,1792007498,5.6,0,277,1,1,1,1,1,,0,14852,12288,78,0.00714,1,gpt-6.1-sol,46.0,,0,01a13bf8-6c57-7013-9634-fffac18a6b07
+plain_json,P45,event,Battle of Plassey,1792007504,5.7,0,355,1,1,1,1,1,,0,14992,12288,110,0.00774,1,gpt-6.1-sol,47.0,,0,01a13bf8-83a5-74a0-94be-2fea18f2c009
+schema_flag,P45,event,Battle of Plassey,1792007502,9.1,0,355,1,1,1,1,1,,0,15040,0,116,0.03124,1,gpt-6.1-sol,47.0,,0,01a13bf8-7d71-7ec1-b48b-e83999d5096d
+plain_json,P46,event,Peace of Westphalia,1792007512,5.3,0,278,1,1,1,1,1,,0,14773,12288,77,0.00697,1,gpt-6.1-sol,47.0,,0,01a13bf8-a120-7a21-b9e4-0750a559552d
+schema_flag,P46,event,Peace of Westphalia,1792007510,7.6,0,251,1,1,1,1,1,,0,14871,0,80,0.03054,1,gpt-6.1-sol,47.0,,0,01a13bf8-9bd3-7fa3-a283-b7959e96d68b
+schema_flag,P47,event,1883 eruption of Krakatoa,1792007517,5.7,0,189,1,1,1,1,1,,0,14740,0,60,0.03008,1,gpt-6.1-sol,47.0,,0,01a13bf8-b6f4-7742-bab3-25592304805b
+plain_json,P47,event,1883 eruption of Krakatoa,1792007518,6.2,0,189,1,1,1,1,1,,0,14640,12288,54,0.00647,1,gpt-6.1-sol,47.0,,0,01a13bf8-bac4-7e91-aa70-e9f0bc3ef337
+schema_flag,P48,event,Lewis and Clark Expedition,1792007523,5.8,0,464,1,1,1,1,1,,0,14799,0,118,0.03078,1,gpt-6.1-sol,48.0,,0,01a13bf8-cf31-79a3-abb7-7e78fe0d3962
+plain_json,P48,event,Lewis and Clark Expedition,1792007525,6.0,0,435,1,1,1,1,1,,0,14703,12288,108,0.00714,1,gpt-6.1-sol,48.0,,0,01a13bf8-d35d-7942-afc7-154bbb747be6
+schema_flag,P49,event,1983 Cricket World Cup,1792007529,5.5,0,183,1,1,1,1,1,,0,14617,0,57,0.0298,1,gpt-6.1-sol,48.0,,0,01a13bf8-e634-75c3-b4bb-b0b8c53c45bd
+plain_json,P49,event,1983 Cricket World Cup,1792007531,4.2,0,183,1,1,1,1,1,,0,14513,12288,51,0.00619,1,gpt-6.1-sol,48.0,,0,01a13bf8-ec0c-7f10-8b88-7ac4647e41c0
+schema_flag,P50,event,Crimean War,1792007535,7.8,0,351,1,1,1,1,1,,0,18245,0,108,0.03757,1,gpt-6.1-sol,49.0,,0,01a13bf8-fe68-73e0-9aa2-206d0096e56e
+plain_json,P50,event,Crimean War,1792007535,10.8,0,351,1,1,1,1,1,,0,14966,12288,102,0.0076,1,gpt-6.1-sol,49.0,,0,01a13bf8-fed3-7000-b6e3-73590cb19402
+plain_keys,P02,person,Alan Turing,1792007690,9.1,0,597,1,1,1,1,1,,0,14714,12288,149,0.00757,1,gpt-6.1-sol,49.0,,0,01a13bfb-598c-7c21-91ac-978caa049e79
+plain_keys,P01,person,Marie Curie,1792007690,9.4,0,733,1,1,0,0,0,"schema:['Polish', 'naturalised French'] is not of type 'string', 'null'",0,14796,12288,192,0.00816,1,gpt-6.1-sol,49.0,,0,01a13bfb-5990-79d2-8023-24836bb7a6f7
+plain_keys,P04,person,Srinivasa Ramanujan,1792007700,6.3,0,529,1,1,1,1,1,,0,14653,12288,137,0.00733,1,gpt-6.1-sol,49.0,,0,01a13bfb-7f9a-7141-9c72-6e072a9bd64b
+plain_keys,P03,person,Ada Lovelace,1792007699,8.1,0,499,1,1,1,1,1,,0,14722,12288,129,0.00739,1,gpt-6.1-sol,49.0,,0,01a13bfb-7e9a-7180-8d11-4e49ec23ad90
+plain_keys,P06,person,Nikola Tesla,1792007707,5.9,0,277,1,1,1,1,1,,0,14703,12288,84,0.0069,1,gpt-6.1-sol,49.0,,0,01a13bfb-9df7-7ec3-8a80-3ff2848166ef
+plain_keys,P05,person,Frida Kahlo,1792007706,8.3,0,603,1,1,1,1,1,,0,14734,12288,160,0.00772,1,gpt-6.1-sol,49.0,,0,01a13bfb-97c4-7ee1-a03f-04592c7b8ec6
+plain_keys,P07,person,Rabindranath Tagore,1792007714,7.5,0,617,1,1,1,1,1,,0,14798,12288,179,0.00804,1,gpt-6.1-sol,50.0,,0,01a13bfb-b661-7101-bbd9-2d6490e5215a
+plain_keys,P08,person,Isaac Newton,1792007715,7.6,0,852,1,1,1,1,1,,0,14717,12288,213,0.00822,1,gpt-6.1-sol,50.0,,0,01a13bfb-b9b0-7041-aece-2e3aa927c698
+plain_keys,P09,person,Rosalind Franklin,1792007721,5.6,0,479,1,1,1,1,1,,0,14766,12288,130,0.00748,1,gpt-6.1-sol,50.0,,0,01a13bfb-d474-7d51-9636-53bd6415ba5e
+plain_keys,P10,person,Leonardo da Vinci,1792007722,7.2,0,634,1,1,1,1,1,,0,14732,12288,179,0.00791,1,gpt-6.1-sol,50.0,,0,01a13bfb-d8cc-7192-93f3-dda5be6ca3bb
+plain_keys,P11,city,Hyderabad,1792007727,5.9,0,149,1,1,1,1,1,,0,14795,12288,57,0.00681,1,gpt-6.1-sol,50.0,,0,01a13bfb-eae1-71b3-bff4-4d7ed99f91f9
+plain_keys,P12,city,Lisbon,1792007730,5.0,0,143,1,1,1,1,1,,0,14768,12288,55,0.00674,1,gpt-6.1-sol,50.0,,0,01a13bfb-f56c-78b2-af69-087694c28751
+plain_keys,P13,city,Nairobi,1792007733,4.8,0,135,1,1,1,1,1,,0,14679,12288,54,0.00655,1,gpt-6.1-sol,50.0,,0,01a13bfc-027e-7bb2-9a97-c326e9240351
+plain_keys,P14,city,Kyoto,1792007735,6.7,0,133,1,1,1,1,1,,0,14787,12288,84,0.00707,1,gpt-6.1-sol,50.0,,0,01a13bfc-09ab-7723-8748-5861c4b54012
+plain_keys,P16,city,Vienna,1792007742,5.7,0,188,1,1,0,0,0,"schema:'just over two million' is not of type 'integer', 'null'",0,14802,12288,66,0.00692,1,gpt-6.1-sol,50.0,,0,01a13bfc-248e-7590-b952-54aeb504d8ab
+plain_keys,P15,city,Buenos Aires,1792007738,10.8,0,161,1,1,1,1,1,,0,14633,12288,57,0.00649,1,gpt-6.1-sol,50.0,,0,01a13bfc-1660-7da1-83a3-99811a178291
+plain_keys,P17,city,Melbourne,1792007748,6.2,0,141,1,1,1,1,1,,0,14757,12288,53,0.0067,1,gpt-6.1-sol,50.0,,0,01a13bfc-3bec-7c71-954b-db82b454b1ea
+plain_keys,P18,city,Cairo,1792007749,5.4,0,155,1,1,0,0,0,"schema:'more than 9.8 million' is not of type 'integer', 'null'",0,14738,12288,58,0.00671,1,gpt-6.1-sol,50.0,,0,01a13bfc-4104-7821-8593-b67f9f6b6d27
+plain_keys,P20,city,Kraków,1792007755,4.9,0,144,1,1,1,1,1,,0,14712,12288,58,0.00666,1,gpt-6.1-sol,51.0,,0,01a13bfc-592a-7853-b679-e077d71854f5
+plain_keys,P19,city,Montreal,1792007754,7.1,0,138,1,1,1,1,1,,0,14730,12288,53,0.00664,1,gpt-6.1-sol,51.0,,0,01a13bfc-5665-7b22-95cc-7d5f36ca0e60
+plain_keys,P21,element,Helium,1792007760,4.9,0,230,1,1,1,1,1,,0,14733,12288,80,0.00692,1,gpt-6.1-sol,51.0,,0,01a13bfc-6c65-7a30-8363-f68e3ae8a9b0
+plain_keys,P22,element,Sodium,1792007762,7.3,0,165,1,1,0,0,0,schema:None is not of type 'string',0,14575,12288,60,0.0064,1,gpt-6.1-sol,51.0,,0,01a13bfc-7202-7c83-8b6d-21f6d60fa57a
+plain_keys,P24,element,Bromine,1792007769,4.4,0,196,1,1,1,1,1,,0,14798,12288,69,0.00694,1,gpt-6.1-sol,51.0,,0,01a13bfc-8fbc-7e43-9f8d-4c0b8ea1677b
+plain_keys,P23,element,Mercury (element),1792007766,9.0,0,153,1,1,0,0,0,"schema:'metal' is not one of ['alkali metal', 'alkaline earth metal', 'transition metal', 'post-transition metal', 'metalloid',",0,14556,12288,55,0.00631,1,gpt-6.1-sol,51.0,,0,01a13bfc-80e6-7883-a714-84ed36331ed9
+plain_keys,P25,element,Uranium,1792007774,4.8,0,175,1,1,0,0,0,schema:None is not of type 'string',0,14743,12288,61,0.00675,1,gpt-6.1-sol,51.0,,0,01a13bfc-a100-7462-82f8-b9c2385e028f
+plain_keys,P26,element,Silicon,1792007775,5.6,0,209,1,1,0,0,0,"schema:'non-metal (sometimes considered a metalloid)' is not one of ['alkali metal', 'alkaline earth metal', 'transition metal'",0,14744,12288,68,0.00682,1,gpt-6.1-sol,51.0,,0,01a13bfc-a4ab-7351-89f9-d8ed49ba6b8e
+plain_keys,P27,element,Neodymium,1792007779,6.3,0,178,1,1,0,0,0,schema:None is not of type 'string',0,14624,12288,63,0.00653,1,gpt-6.1-sol,51.0,,0,01a13bfc-b50c-7f90-a741-ea2ce87abbb7
+plain_keys,P28,element,Calcium,1792007781,6.4,0,174,1,1,0,0,0,schema:None is not of type 'string',0,14622,12288,61,0.00651,1,gpt-6.1-sol,51.0,,0,01a13bfc-bb65-7683-b94e-02282921e1cf
+plain_keys,P29,element,Argon,1792007785,6.2,0,149,1,1,0,0,0,schema:None is not of type 'string',0,14620,12288,54,0.00643,1,gpt-6.1-sol,51.0,,0,01a13bfc-ce9b-7f82-a21d-0e3ec97b3c9a
+plain_keys,P30,element,Tungsten,1792007787,4.6,0,152,1,1,0,0,0,"schema:'metal' is not one of ['alkali metal', 'alkaline earth metal', 'transition metal', 'post-transition metal', 'metalloid',",0,14653,12288,55,0.00651,1,gpt-6.1-sol,51.0,,0,01a13bfc-d51d-76f1-9957-808b2a238703
+plain_keys,P32,company,Infosys,1792007792,4.6,0,232,1,1,0,0,0,schema:'Bengaluru' is not of type 'object',0,14278,12288,74,0.00595,1,gpt-6.1-sol,51.0,,0,01a13bfc-e802-75a2-872c-700327352061
+plain_keys,P31,company,Toyota,1792007792,6.3,0,213,1,1,0,0,0,"schema:'Toyota City, Aichi, Japan' is not of type 'object'",0,14726,12288,68,0.00678,1,gpt-6.1-sol,51.0,,0,01a13bfc-e81d-7f62-8b3a-fb89b4ad0024
+plain_keys,P33,company,Nokia,1792007797,9.2,0,455,1,1,0,0,0,"schema:'Espoo, Finland' is not of type 'object'",0,14689,12288,124,0.00727,1,gpt-6.1-sol,52.0,,0,01a13bfc-fa60-7992-a0b4-c487b03ec298
+plain_keys,P34,company,Unilever,1792007801,5.3,0,262,1,1,0,0,0,"schema:'London, England' is not of type 'object'",0,14613,12288,83,0.00671,1,gpt-6.1-sol,52.0,,0,01a13bfd-0a89-78c2-a7c1-a27215b13999
+plain_keys,P36,company,Spotify,1792007806,4.5,0,197,1,1,0,0,0,schema:None is not of type 'object',0,14776,12288,65,0.00685,1,gpt-6.1-sol,52.0,,0,01a13bfd-2004-7810-9c04-b2d9f7d84aba
+plain_keys,P35,company,Samsung,1792007806,7.0,0,472,1,1,0,0,0,"schema:'Samsung Town office complex, Seoul, South Korea' is not of type 'object'",0,14537,12288,132,0.00705,1,gpt-6.1-sol,52.0,,0,01a13bfd-1f92-79b2-9230-10f6b23ef097
+plain_keys,P37,company,Tata Steel,1792007811,6.6,0,152,1,1,0,0,0,schema:'Mumbai' is not of type 'object',0,14374,12288,55,0.00595,1,gpt-6.1-sol,52.0,,0,01a13bfd-31b2-76c2-b0b4-48291d900c77
+plain_keys,P38,company,Nintendo,1792007813,4.5,0,206,1,1,0,0,0,"schema:'Kyoto, Japan' is not of type 'object'",0,14661,12288,72,0.00669,1,gpt-6.1-sol,52.0,,0,01a13bfd-3b6e-7bc0-aa6e-7fd04d24c0b8
+plain_keys,P39,company,IKEA,1792007818,7.1,0,202,1,1,0,0,0,schema:None is not of type 'object',0,14749,12288,105,0.0072,1,gpt-6.1-sol,52.0,,0,01a13bfd-4d36-7bf0-9411-b92123c1f8d6
+plain_keys,P40,company,Airbus,1792007818,7.5,0,375,1,1,0,0,0,"schema:Additional properties are not allowed ('legal', 'main_office' were unexpected)",0,14586,12288,125,0.00707,1,gpt-6.1-sol,52.0,,0,01a13bfd-4e9a-7a23-9442-3399fa2eacb4
+plain_keys,P41,event,Battle of Hastings,1792007825,6.1,0,371,1,1,0,0,0,"schema:'Battle' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']",0,14717,12288,110,0.00719,1,gpt-6.1-sol,52.0,,0,01a13bfd-68f3-7832-8053-de7419f2be6b
+plain_keys,P42,event,Treaty of Versailles,1792007826,7.8,0,205,1,1,0,0,0,"schema:'Peace treaty' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']",0,14682,12288,64,0.00666,1,gpt-6.1-sol,52.0,,0,01a13bfd-6c53-7193-8103-cb0a0e9803c1
+plain_keys,P43,event,1906 San Francisco earthquake,1792007831,4.8,0,269,1,1,0,0,0,schema:None is not of type 'string',0,14420,12288,86,0.00635,1,gpt-6.1-sol,52.0,,0,01a13bfd-8174-7a82-8c65-2be809dc0cb2
+plain_keys,P44,event,Apollo 11,1792007834,5.3,0,368,1,1,0,0,0,"schema:'Crewed spaceflight and lunar landing' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting eve",0,14700,12288,117,0.00722,1,gpt-6.1-sol,52.0,,0,01a13bfd-8b82-7d91-9693-029d65d9b182
+plain_keys,P45,event,Battle of Plassey,1792007836,7.2,0,448,1,1,1,1,1,,0,14794,12288,154,0.00778,1,gpt-6.1-sol,52.0,,0,01a13bfd-9512-7113-9564-48543e7cff89
+plain_keys,P46,event,Peace of Westphalia,1792007839,5.9,0,339,1,1,0,0,0,"schema:'Two peace treaties' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']",0,14625,12288,105,0.00695,1,gpt-6.1-sol,53.0,,0,01a13bfd-a0e9-7621-8022-897f946a363b
+plain_keys,P47,event,1883 eruption of Krakatoa,1792007844,6.1,0,241,1,1,0,0,0,"schema:'Volcanic eruption' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']",0,14492,12288,80,0.00644,1,gpt-6.1-sol,53.0,,0,01a13bfd-b26f-7651-afb9-ec73e18fe958
+plain_keys,P48,event,Lewis and Clark Expedition,1792007845,6.9,0,543,1,1,0,0,0,"schema:'Exploration expedition' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']",0,14551,12288,154,0.00729,1,gpt-6.1-sol,53.0,,0,01a13bfd-b923-7322-a353-c98fd31c731f
+plain_keys,P49,event,1983 Cricket World Cup,1792007850,5.5,0,216,1,1,0,0,0,"schema:'Cricket tournament' is not one of ['war', 'battle', 'treaty', 'disaster', 'expedition', 'sporting event', 'other']",0,14365,12288,72,0.0061,1,gpt-6.1-sol,53.0,,0,01a13bfd-cb78-7d63-aa54-e2f92a712187
+plain_keys,P50,event,Crimean War,1792007852,7.0,0,448,1,1,1,1,1,,0,14764,12288,151,0.00769,1,gpt-6.1-sol,53.0,,0,01a13bfd-d3f2-7071-a787-a1af0340191d
+probe_schema_r1,P21,element,Helium,1792007907,9.4,0,303,1,1,1,1,1,,0,15036,0,164,0.03171,1,gpt-6.1-sol,53.0,,0,01a13bfe-aba6-7a20-96ab-2324d07d4ef6
+probe_schema_r2,P21,element,Helium,1792007917,4.9,0,187,1,1,1,1,1,,0,15034,0,60,0.03067,1,gpt-6.1-sol,53.0,,0,01a13bfe-cf74-79d3-b09c-123126d427f4
+probe_schema_r3,P21,element,Helium,1792007922,10.2,0,187,1,1,1,1,1,,0,15036,0,107,0.03114,1,gpt-6.1-sol,54.0,,0,01a13bfe-e48b-7121-9bcd-33fafae35750

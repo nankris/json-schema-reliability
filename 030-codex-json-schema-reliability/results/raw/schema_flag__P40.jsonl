@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf7-f630-7892-9255-afdff19498f6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Airbus SE\",\"founded_year\":2000,\"founders\":[\"Aérospatiale-Matra\",\"DASA\",\"CASA\"],\"headquarters\":{\"city\":\"Leiden\",\"country\":\"Netherlands\"},\"industries\":[\"Aerospace\",\"Commercial aircraft\",\"Defence and space\",\"Helicopters\"],\"is_public\":true}"}}
+{"type":"turn.completed","usage":{"input_tokens":14856,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":81,"reasoning_output_tokens":0}}

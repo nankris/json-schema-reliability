@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-592a-7853-b679-e077d71854f5"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Kraków\",\n  \"country\": \"Poland\",\n  \"is_capital\": false,\n  \"population\": 816614,\n  \"population_year\": 2025,\n  \"rivers\": [\"Vistula\"]\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14712,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":58,"reasoning_output_tokens":0}}

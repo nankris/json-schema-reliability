@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf8-7d71-7ec1-b48b-e83999d5096d"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Battle of Plassey\",\"start_year\":1757,\"end_year\":1757,\"locations\":[\"Palashi (Plassey)\",\"Hooghly River\",\"West Bengal\"],\"participants\":[\"British East India Company\",\"Robert Clive\",\"Nawab Siraj-ud-Daulah\",\"French East India Company\",\"Mir Jafar\",\"Yar Lutuf Khan\",\"Jagat Seths (Mahtab Chand and Swarup Chand)\",\"Umichand\",\"Rai Durlabh\"],\"kind\":\"battle\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":15040,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":116,"reasoning_output_tokens":0}}

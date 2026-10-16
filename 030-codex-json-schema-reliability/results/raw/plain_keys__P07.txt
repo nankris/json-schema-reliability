@@ -1,0 +1,24 @@
+{
+  "name": "Rabindranath Tagore",
+  "birth_year": 1861,
+  "death_year": 1941,
+  "nationality": "Indian",
+  "occupations": [
+    "poet",
+    "author",
+    "playwright",
+    "musician",
+    "composer",
+    "philosopher",
+    "social reformer",
+    "painter"
+  ],
+  "known_for": [
+    "Winning the Nobel Prize in Literature in 1913",
+    "Writing Gitanjali, Gora, and Ghare-Baire",
+    "Writing and composing the national anthems of India and Bangladesh",
+    "Reshaping Bengali literature and music and Indian art",
+    "Being a foremost figure of the Bengal Renaissance",
+    "Founding Visva-Bharati University"
+  ]
+}

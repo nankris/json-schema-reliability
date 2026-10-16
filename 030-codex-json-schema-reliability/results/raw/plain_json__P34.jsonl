@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf7-30bd-7a83-882a-9316f9532a5f"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Unilever PLC\",\n  \"founded_year\": 1930,\n  \"founders\": [],\n  \"headquarters\": {\n    \"city\": \"London\",\n    \"country\": \"England\"\n  },\n  \"industries\": [\n    \"Consumer packaged goods\",\n    \"Beauty & Wellbeing\",\n    \"Personal Care\",\n    \"Home Care\",\n    \"Nutrition\"\n  ],\n  \"is_public\": true\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14783,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":95,"reasoning_output_tokens":0}}

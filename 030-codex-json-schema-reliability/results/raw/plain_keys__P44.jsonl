@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfd-8b82-7d91-9693-029d65d9b182"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Apollo 11\",\n  \"start_year\": 1969,\n  \"end_year\": 1969,\n  \"locations\": [\n    \"Kennedy Space Center, Florida\",\n    \"Sea of Tranquility (Mare Tranquillitatis), Moon\",\n    \"Lunar orbit\",\n    \"Pacific Ocean\"\n  ],\n  \"participants\": [\n    \"Neil Armstrong\",\n    \"Michael Collins\",\n    \"Edwin \\\"Buzz\\\" Aldrin\"\n  ],\n  \"kind\": \"Crewed spaceflight and lunar landing\"\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14700,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":117,"reasoning_output_tokens":0}}

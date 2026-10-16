@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-5665-7b22-95cc-7d5f36ca0e60"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Montreal\",\n  \"country\": \"Canada\",\n  \"is_capital\": false,\n  \"population\": 1762949,\n  \"population_year\": 2021,\n  \"rivers\": []\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14730,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":53,"reasoning_output_tokens":0}}

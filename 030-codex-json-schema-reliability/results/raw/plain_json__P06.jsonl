@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf1-4dc5-7753-9916-963a5b3bd844"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Nikola Tesla\",\"birth_year\":1856,\"death_year\":1943,\"nationality\":\"Serbian-American\",\"occupations\":[\"engineer\",\"futurist\",\"inventor\"],\"known_for\":[\"Contributions to the design of the modern alternating current (AC) electricity supply system\",\"AC induction motor and related polyphase AC patents\",\"One of the first wirelessly controlled vehicles\",\"Experiments in wireless lighting and wireless electric power distribution\",\"Unfinished Wardenclyffe Tower project\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":18057,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":104,"reasoning_output_tokens":0}}

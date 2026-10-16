@@ -1,0 +1,1 @@
+{"name":"Kyoto","country":"Japan","is_capital":false,"population":1460000,"population_year":2020,"rivers":[]}

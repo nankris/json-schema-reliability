@@ -1,0 +1,1 @@
+{"name":"Nokia Corporation","founded_year":1865,"founders":[],"headquarters":{"city":"Espoo","country":"Finland"},"industries":["Telecommunications","Information technology","Consumer electronics","Pulp","Rubber","Cables","Technology development","Licensing","Mobile phones and smartphones","Internet of things","Mapping","Virtual reality","Digital health"],"is_public":true}

@@ -1,0 +1,1 @@
+{"name":"Helium","symbol":"He","atomic_number":2,"category":"noble gas","state_at_room_temperature":"gas","discovered_by":["Georges Rayet","Captain C. T. Haig","Norman R. Pogson","Lieutenant John Herschel","Jules Janssen","Norman Lockyer","Sir William Ramsay","Per Teodor Cleve","Nils Abraham Langlet"]}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-09ab-7723-8748-5861c4b54012"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Kyoto\",\n  \"country\": \"Japan\",\n  \"is_capital\": true,\n  \"population\": 1460000,\n  \"population_year\": 2020,\n  \"rivers\": []\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14787,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":84,"reasoning_output_tokens":29}}

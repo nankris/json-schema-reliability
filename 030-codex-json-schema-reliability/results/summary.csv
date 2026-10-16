@@ -1,0 +1,4 @@
+arm,runs,parse_valid_rate,lenient_parse_valid_rate,schema_valid_rate,schema_valid_after_lenient_parse,input_tokens_mean,cached_input_mean,runs_with_cache_hit,output_tokens_mean,wall_s_mean,est_cost_mean_usd,est_cost_total_usd,tool_items,retries
+schema_flag,50,1.0,1.0,1.0,1.0,15233.0,497.0,2,80.6,8.51,0.03033,1.5164,0,1
+plain_json,50,1.0,1.0,1.0,1.0,15011.0,12186.0,50,80.4,8.48,0.00767,0.3837,0,0
+plain_keys,50,1.0,1.0,0.42,0.42,14670.0,12288.0,50,95.4,6.44,0.00695,0.3473,0,0

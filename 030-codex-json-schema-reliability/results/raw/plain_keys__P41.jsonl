@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfd-68f3-7832-8053-de7419f2be6b"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Battle of Hastings\",\n  \"start_year\": 1066,\n  \"end_year\": 1066,\n  \"locations\": [\n    \"Approximately 7 mi (11 km) northwest of Hastings, close to the present-day town of Battle, East Sussex\"\n  ],\n  \"participants\": [\n    \"Norman-French army led by William, Duke of Normandy\",\n    \"English army led by Anglo-Saxon King Harold Godwinson\"\n  ],\n  \"kind\": \"Battle\"\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14717,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":110,"reasoning_output_tokens":0}}

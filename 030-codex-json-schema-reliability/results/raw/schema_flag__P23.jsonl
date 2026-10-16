@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a13bf4-1776-7e11-be9c-583523350ffb"}
+{"type":"turn.started"}
+{"type":"error","message":"Reconnecting... 2/5 (unexpected status 503 Service Unavailable: An error occurred while processing your request. You can retry your request, or contact us through our help center at help.openai.com if the error persists.)"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Mercury\",\"symbol\":\"Hg\",\"atomic_number\":80,\"category\":\"unknown\",\"state_at_room_temperature\":\"liquid\",\"discovered_by\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":14853,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":63,"reasoning_output_tokens":19}}

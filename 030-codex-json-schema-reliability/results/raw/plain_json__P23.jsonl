@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf4-291c-70f2-bda6-6831501f77c2"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Mercury\",\"symbol\":\"Hg\",\"atomic_number\":80,\"category\":\"unknown\",\"state_at_room_temperature\":\"liquid\",\"discovered_by\":[]}"}}
+{"type":"turn.completed","usage":{"input_tokens":14727,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":36,"reasoning_output_tokens":0}}

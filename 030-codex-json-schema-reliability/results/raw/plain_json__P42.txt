@@ -1,0 +1,1 @@
+{"name":"Treaty of Versailles","start_year":1919,"end_year":1919,"locations":["Palace of Versailles"],"participants":["Germany","Allied Powers"],"kind":"treaty"}

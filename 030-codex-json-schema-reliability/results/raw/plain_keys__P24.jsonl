@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-8fbc-7e43-9f8d-4c0b8ea1677b"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Bromine\",\n  \"symbol\": \"Br\",\n  \"atomic_number\": 35,\n  \"category\": \"halogen\",\n  \"state_at_room_temperature\": \"liquid\",\n  \"discovered_by\": [\"Carl Jacob Löwig\", \"Antoine Jérôme Balard\"]\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14798,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":69,"reasoning_output_tokens":0}}

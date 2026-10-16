@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf3-dc3f-7d80-87ce-5c322e60e772"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Helium\",\"symbol\":\"He\",\"atomic_number\":2,\"category\":\"noble gas\",\"state_at_room_temperature\":\"gas\",\"discovered_by\":[\"Sir William Ramsay\",\"Per Teodor Cleve\",\"Nils Abraham Langlet\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":15034,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":60,"reasoning_output_tokens":0}}

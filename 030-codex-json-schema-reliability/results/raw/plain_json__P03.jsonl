@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf0-e765-7d23-b722-2c9fbe21e9d3"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Augusta Ada King, Countess of Lovelace\",\"birth_year\":1815,\"death_year\":1852,\"nationality\":\"English\",\"occupations\":[\"mathematician\",\"writer\"],\"known_for\":[\"Work on Charles Babbage's proposed analytical engine\",\"Recognising that the analytical engine had applications beyond pure calculation\",\"Often considered the first computer programmer\",\"Translating Luigi Menabrea's article about the analytical engine and supplementing it with seven explanatory notes\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":14845,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":103,"reasoning_output_tokens":0}}

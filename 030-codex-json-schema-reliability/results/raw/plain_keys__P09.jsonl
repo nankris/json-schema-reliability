@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfb-d474-7d51-9636-53bd6415ba5e"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Rosalind Elsie Franklin\",\n  \"birth_year\": 1920,\n  \"death_year\": 1958,\n  \"nationality\": \"English\",\n  \"occupations\": [\"Chemist\", \"X-ray crystallographer\"],\n  \"known_for\": [\n    \"Work on X-ray diffraction images of DNA, particularly Photo 51, that contributed to the discovery of the DNA double helix\",\n    \"Research on the molecular structures of RNA, viruses, coal, and graphite\",\n    \"Pioneering work on the molecular structures of viruses at Birkbeck College\"\n  ]\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14766,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":130,"reasoning_output_tokens":0}}

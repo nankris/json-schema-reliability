@@ -1,0 +1,1 @@
+{"name":"Crimean War","start_year":1853,"end_year":1856,"locations":["Danubian Principalities","Sinop","Silistria","Crimea","Black Sea","Sevastopol","Alma","Balaclava","Inkerman","Caucasus","White Sea","North Pacific","Malakoff redoubt"],"participants":["Russia","Ottoman Empire","France","United Kingdom","Kingdom of Sardinia-Piedmont"],"kind":"war"}

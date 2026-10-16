@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-ce9b-7f82-a21d-0e3ec97b3c9a"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Argon\",\n  \"symbol\": \"Ar\",\n  \"atomic_number\": 18,\n  \"category\": \"noble gas\",\n  \"state_at_room_temperature\": null,\n  \"discovered_by\": []\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14620,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":54,"reasoning_output_tokens":0}}

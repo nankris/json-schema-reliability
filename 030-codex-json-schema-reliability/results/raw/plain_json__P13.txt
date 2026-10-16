@@ -1,0 +1,1 @@
+{"name":"Nairobi","country":"Kenya","is_capital":true,"population":5600000,"population_year":2026,"rivers":[]}

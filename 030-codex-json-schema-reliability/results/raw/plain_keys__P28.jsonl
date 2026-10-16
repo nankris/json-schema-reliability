@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bfc-bb65-7683-b94e-02282921e1cf"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\n  \"name\": \"Calcium\",\n  \"symbol\": \"Ca\",\n  \"atomic_number\": 20,\n  \"category\": \"alkaline earth metal\",\n  \"state_at_room_temperature\": null,\n  \"discovered_by\": \"Humphry Davy\"\n}"}}
+{"type":"turn.completed","usage":{"input_tokens":14622,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":61,"reasoning_output_tokens":0}}

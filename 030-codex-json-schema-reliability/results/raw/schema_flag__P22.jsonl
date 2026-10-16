@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf3-faf4-76d3-8cf3-396b4d094637"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Sodium\",\"symbol\":\"Na\",\"atomic_number\":11,\"category\":\"alkali metal\",\"state_at_room_temperature\":\"unknown\",\"discovered_by\":[\"Humphry Davy\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":14878,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":68,"reasoning_output_tokens":17}}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a13bf1-ec89-7c90-985f-336239768d58"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"name\":\"Rosalind Elsie Franklin\",\"birth_year\":1920,\"death_year\":1958,\"nationality\":\"English\",\"occupations\":[\"chemist\",\"X-ray crystallographer\"],\"known_for\":[\"Work on X-ray diffraction images of DNA, particularly Photo 51 taken by her student Raymond Gosling\",\"Contributions to understanding the DNA double helix structure\",\"Research on the molecular structures of RNA, viruses, coal, and graphite\",\"Pioneering work on the structure of tobacco mosaic virus\"]}"}}
+{"type":"turn.completed","usage":{"input_tokens":14895,"cached_input_tokens":12288,"cache_write_input_tokens":0,"output_tokens":105,"reasoning_output_tokens":0}}
